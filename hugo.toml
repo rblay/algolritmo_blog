@@ -1,0 +1,55 @@
+baseURL = "https://algolritmo.com/"
+title = "Algolritmo"
+defaultContentLanguage = "pt"
+defaultContentLanguageInSubdir = true
+pagination.pagerSize = 10
+summaryLength = 40
+enableRobotsTXT = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  description = "Análises de futebol com matemática e estatística"
+  mainColor = "#3ea526"
+  heroImage = "images/hero.jpg"
+  logo = "images/logo.png"
+  favicon = "images/favicon.png"
+
+[languages]
+  [languages.pt]
+    languageCode = "pt-BR"
+    languageName = "Português"
+    weight = 1
+    title = "Algolritmo"
+    [languages.pt.params]
+      description = "Revelando detalhes matemáticos e estatísticos da maior paixão global"
+    [[languages.pt.menus.main]]
+      name = "Home"
+      url = "/"
+      weight = 1
+    [[languages.pt.menus.main]]
+      name = "Sobre"
+      url = "/about/"
+      weight = 2
+
+  [languages.en]
+    languageCode = "en-US"
+    languageName = "English"
+    weight = 2
+    title = "Algolritmo"
+    [languages.en.params]
+      description = "Revealing mathematical and statistical details of the world's greatest passion"
+    [[languages.en.menus.main]]
+      name = "Home"
+      url = "/"
+      weight = 1
+    [[languages.en.menus.main]]
+      name = "About"
+      url = "/about/"
+      weight = 2
+
+[outputs]
+  home = ["HTML"]

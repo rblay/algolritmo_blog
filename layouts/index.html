@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+{{ partial "hero.html" . }}
+
+<section class="posts-section">
+  <div class="posts-grid">
+    {{ $pages := where .Site.RegularPages "Section" "posts" }}
+    {{ range $pages }}
+    <article class="post-card">
+      <a href="{{ .RelPermalink }}" class="post-card-link">
+        {{ with .Params.image }}
+        <div class="post-card-image">
+          <img src="{{ . | absURL }}" alt="{{ $.Title }}" loading="lazy">
+        </div>
+        {{ end }}
+        <div class="post-card-body">
+          <h2 class="post-card-title">{{ .Title }}</h2>
+          <div class="post-card-meta">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02 Jan 2006" }}</time>
+            {{ with .Params.authors }}
+              <span class="post-card-authors">· {{ delimit . ", " }}</span>
+            {{ end }}
+          </div>
+          <p class="post-card-excerpt">{{ .Summary | plainify | truncate 160 }}</p>
+        </div>
+      </a>
+    </article>
+    {{ end }}
+  </div>
+
+  {{ template "_internal/pagination.html" . }}
+</section>
+
+{{ end }}
