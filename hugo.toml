@@ -28,11 +28,11 @@ enableRobotsTXT = true
       description = "Revelando detalhes matemáticos e estatísticos da maior paixão global"
     [[languages.pt.menus.main]]
       name = "Home"
-      url = "/"
+      pageRef = "/"
       weight = 1
     [[languages.pt.menus.main]]
       name = "Sobre"
-      url = "/about/"
+      pageRef = "/about/"
       weight = 2
 
   [languages.en]
@@ -44,11 +44,11 @@ enableRobotsTXT = true
       description = "Revealing mathematical and statistical details of the world's greatest passion"
     [[languages.en.menus.main]]
       name = "Home"
-      url = "/"
+      pageRef = "/"
       weight = 1
     [[languages.en.menus.main]]
       name = "About"
-      url = "/about/"
+      pageRef = "/about/"
       weight = 2
 
 [outputs]
