@@ -12,7 +12,7 @@ Não encontrei nenhum outro brasileiro na conferência, acredito que praticament
 
 Gostaria de parabenizar a organização do evento, tudo correu muito bem e fiquei extremamente satisfeito com a qualidade das palestras, local e comida, não parecia que era a primeira vez que organizavam a conferência. Minha única “reclamação” é o clima chuvoso de Londres, que não é o ideal para um brasileiro, quem sabe uma próxima edição da conferência possa ser realizada no Brasil? 
 
-![](https://i2.wp.com/algolritmo.com/wp-content/uploads/2019/10/31abf671-82f9-4c1d-ad44-1b1a956563c5.png?fit=640%2C697&ssl=1)
+![](<images/31abf671-82f9-4c1d-ad44-1b1a956563c5.png>)
 
 Na esquerda temos a programação da “sala principal” e na direita a “sala de pesquisas”. Durante boa parte do dia a área de pesquisas estava mais lotada.
 
@@ -38,7 +38,7 @@ Abaixo, fiz um resumo dos meus principais aprendizados e reflexões do evento. A
 -   Já existe uma enorme distância entre times da América do Sul e as equipes da Europa devido a diferenças orçamentárias. Se os nossos clubes não incorporarem a análise de dados ao seu dia a dia a tendência é que a distância se torne ainda maior. Isso com certeza afetará as seleções nacionais. Não basta ter apenas jogadores sul americanos de ponta atuando na Europa, nossos treinadores e executivos de futebol (os tradicionais “cartolas”) também precisam estar a par daquilo que é mais moderno.
 -   Acredito que o Algolritmo pode ajudar a trazer um pouco dessa visão mais analítica para o futebol do brasileiro. Minha ideia é produzir conteúdo que possa levantar outros tipos de debate sobre nossos clubes e jogadores. Porém, quero deixar claro que não sou o tipo de pessoa que desmerece e menospreza visões mais “românticas”, humorísticas e sociológicas do futebol, na verdade sou grande consumidor dessa variedade de material. Acho apenas que também existem outras formas de se desfrutar desse esporte.
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2019/10/algolritmo5.0Pequeno.png?fit=640%2C256&ssl=1)
+![](<images/algolritmo5.0Pequeno.png>)
 
 #### **Abertura da Conferência**
 
@@ -59,7 +59,7 @@ Além disso, Ted também falou sobre alguns dos próximos passos, entre eles a e
 
 Por último, Ted falou sobre algumas iniciativas da StatsBomb que admiro bastante. A empresa oferece alguns dados de graça para analistas que querem começar a se familiarizar com dados de futebol e testar modelos (no momento, por exemplo, qualquer um tem acesso a todos os jogos da Copa do Mundo de 2018 e a todos os jogos da carreira de Lionel Messi). A empresa também oferece suas plataforma de dados de graça para times femininos.
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2019/10/statsbomb-social-1.jpg?resize=640%2C137&ssl=1)
+![](<images/statsbomb-social-1.jpg>)
 
 #### **Análise de Dados Como Vocabulário: Dando o Poder de Linguagem para Estatísticas**
 
@@ -69,13 +69,13 @@ Seth Partnow era o único palestrante de “fora” do mundo do futebol, ele já
 
 O essencial para uma análise de dados bem-feita é saber o que contar e como contar. Isso pode parecer trivial, mas no fundo é complexo e um pouco filosófico. Seth disse algo que já ouvi em outras palestras e concordo plenamente: “O valor de um projeto de data science é inversamente proporcional a sua complexidade”. Em outras palavras, as análises mais úteis e valiosas geralmente são simples, compreensíveis e fáceis de aplicar. A estatística descritiva é uma ferramenta poderosíssima que acaba muitas vezes sendo subestimada. Além disso, as métricas criadas para esporte devem ter boa nomenclatura, que seja fácil de entender e autoexplicativa. Seth mostrou alguns exemplos daquilo que considera bons e maus nomes (veja imagem abaixo).
 
-![](https://i2.wp.com/algolritmo.com/wp-content/uploads/2019/10/IMG_5403.jpeg?fit=640%2C480&ssl=1)
+![](<images/IMG_5403.jpeg>)
 
 Alguns exemplos (bons e ruin) de nomes de métricas para análise esportiva
 
 Por fim, Seth também comentou um pouco sobre a dificuldade de se avaliar jogadores como “superstars”. A NBA cresceu muito globalmente nos últimos anos e cada vez mais os jogadores são tratados como grandes estrelas. Junto a esse status de fama, também existe a ideia de que esse grupo de indivíduos é tão acima da média que um “superstar” consegue levar o time aos playoffs e torna-lo candidato ao título quase que individualmente. Seth mostrou uma análise com o número de vitórias e probabilidade de título que diferentes jogadores agregaram ao time (sem incluir o nome dos jogadores). Segundo essa análise, são pouquíssimos jogadores que realmente conseguem, por si só, aumentar incrivelmente as chances de título de um time. Na minha experiência assistindo basquete, esses jogadores hoje em dia são: Lebron James, Kevin Durant, Stephen Curry, James Harden e Giannis Antetokounmpo.
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2019/10/IMG_5405.jpeg?fit=640%2C480&ssl=1)
+![](<images/IMG_5405.jpeg>)
 
 Partnow mostrou algumas das análises feitas para avaliar jogadores na NBA em termos de valor ofensivo
 
@@ -93,7 +93,7 @@ Estefania foi uma das escolhidas pela organização do evento na competição de
     -   Quando se entra através de uma condução de bola, a tendência é ir centralmente, em direção ao gol.
 -   Passes no geral são armas mais efetivas para entrar na zona de ataque do que carregar e driblar, mas é claro que isso depende do contexto e dos jogadores disponíveis.
 
-![](https://i2.wp.com/algolritmo.com/wp-content/uploads/2019/10/IMG_5411.jpeg?fit=640%2C303&ssl=1)
+![](<images/IMG_5411.jpeg>)
 
 Estefania investigou quais tipos de passe são mais eficientes para entrar na zona de ataque
 
@@ -103,7 +103,7 @@ Estefania investigou quais tipos de passe são mais eficientes para entrar na zo
 
 A ideia da pesquisa de Łukasz surgiu quando estava jogando futebol com os filhos em um parque, e percebeu que estava dando conselhos sem a menor base científica para as crianças. Seus filhos perguntavam onde deveriam mirar quando chutavam, e ele respondia “o mais perto possível dos ângulos superiores das traves”. Foi então que Łukasz percebeu que não tinha certeza se essa era a melhor recomendação e fez o que qualquer pai faria: fez uma pesquisa científica para responder à pergunta com mais embasamento. Após muito estudo, Łukasz concluiu que o ideal é mirar a bola baixa e relativamente próxima das traves (mas não colado nas traves). O pesquisador levou em consideração que existe uma margem de erro para chutes. Todos nós já sentimos isso quando tentamos finalizar no ângulo e isolamos a bola para longe. Acertar exatamente o local desejado é extremamente difícil.
 
-![](https://i1.wp.com/algolritmo.com/wp-content/uploads/2019/10/IMG_5415.jpeg?fit=640%2C480&ssl=1)
+![](<images/IMG_5415.jpeg>)
 
 Probabilidades de gol, e pontos para mirar de acordo com a habilidade do jogador
 
@@ -113,19 +113,19 @@ Probabilidades de gol, e pontos para mirar de acordo com a habilidade do jogador
 
 **Palestrante**: Vosse de Boode, chefe de ciências do esporte no AFC Ajax
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2019/10/1200px-Ajax_Amsterdam.svg_.png?resize=170%2C170&ssl=1)
+![](<images/1200px-Ajax_Amsterdam.svg_.png>)
 
 Fiquei muito impressionado com o que vi na palestre de Vosse de Boode. O consenso com quem conversei foi que essa apresentação foi um dos grandes destaques da conferência. Vosse mostrou diversos exemplos de como a Ajax usa ciência para entender as melhores formas de se jogar futebol (principalmente em termos de técnica) e como ensinar isso aos jogadores. O Ajax tem um laboratório de verdade para esses estudos, onde conseguem fazer diferentes experimentos aplicando métodos científicos. O foco do trabalho no laboratório do Ajax é gerar conhecimento e tentar transmiti-los para os jogadores, principalmente para os atletas de base, pois ainda estão em formação. É claro que os jogadores do time principal também se beneficiam com as descobertas do laboratório, mas é nas categorias de base onde existe o maior potencial de crescimento técnico.
 
 Um dos exemplos mais interessantes apresentados por Vosse foi sobre a postura dos goleiros. Geralmente, goleiros são aconselhados a manterem as pernas abertas na mesma largura dos ombros, porém perceberam que o goleiro Onana (comprado do Barcelona pelo Ajax) mantinha as pernas mais abertas do que o “recomendado”. Ao invés de tentar mudar a postura do arqueiro camaronês o laboratório do Ajax resolveu estudar aquela pose inusitada. Os pesquisadores concluíram que a postura de Onana era mais eficiente do que a “tradicional recomendação”, pois o goleiro conseguiria cobrir uma área maior do gol e pular melhor (especialmente para baixo, onde a maioria dos chutes são direcionados).
 
-![](https://i2.wp.com/algolritmo.com/wp-content/uploads/2019/10/IMG_5417.jpeg?fit=640%2C360&ssl=1)
+![](<images/IMG_5417.jpeg>)
 
 O Ajax fez testes com óculos especiais, que conseguem analisar o foco visual do jogador.
 
 Além disso, o Ajax também faz pesquisas com o foco visual dos jogadores. Com óculos especiais, o laboratório consegue analisar aquilo que os jogadores observam e quais seus principais pontos de atenção quando executam diferentes movimentos relacionados ao futebol. Uma das principais conclusões do laboratório é que os melhores finalizadores olham para o alvo com muita atenção uma vez, depois olham diretamente para a bola e chutam. É incrível imaginar as infinitas possibilidades de estudos que esse laboratório pode fazer e como isso pode afetar positivamente o desenvolvimento de atletas.
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2019/10/IMG_5422.jpeg?fit=640%2C378&ssl=1)
+![](<images/IMG_5422.jpeg>)
 
 O Ajax busca descobrir como aprimorar a técnica de seus jogadores, um exemplo é o foco durante a ação de chute.
 
@@ -135,7 +135,7 @@ Infelizmente o vídeo dessa palestra é um dos poucos que não será disponibili
 
 **Palestrante**: [Javi Fernández](https://twitter.com/javiondata?lang=en), chefe de sports analytics no FC Barcelona
 
-![](https://i2.wp.com/algolritmo.com/wp-content/uploads/2019/10/1200px-FC_Barcelona_crest.svg_.png?fit=640%2C649&ssl=1)
+![](<images/1200px-FC_Barcelona_crest.svg_.png>)
 
 Javi é um dos principais nomes na área de soccer analytics e já palestrou em outras conferências que fui, como a Sloan Sports Analytics Conference, no MIT. Como ele trabalha para o Barcelona seus exemplos e vídeos sempre mostram lances do time catalão, o que é sempre prazeroso para quem está na plateia.
 
@@ -147,7 +147,7 @@ Basicamente, o EPV consegue dizer a probabilidade de um time fazer (ou levar) um
 -   Chutes
 -   Dribles (tentativas de progressão individual com a bola)
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2019/10/IMG_5431.jpeg?fit=640%2C374&ssl=1)
+![](<images/IMG_5431.jpeg>)
 
 Javi mostrou que o modelo de EPV leva em consideração diferentes contextos de um partida de futebol
 
@@ -158,7 +158,7 @@ Uma das formas mais interessantes de usar o modelo é ver o EPV antes e depois d
 -   O Arthur gera valor para o time a partir de seus passes verticais, que rompem linhas adversárias. O meia brasileiro tem se destacado muito nesse quesito durante as primeiras rodadas do campeonato espanhol 2019-2020
 -   Já o Messi consegue fazer de tudo um pouco, mas sua capacidade de driblar e gerar espaço é um dos atributos que mais ajuda o Barcelona. Javi também já fez um estudo de como o Messi encontra espaço simplesmente andando (e não correndo) pelo campo (o link para a pesquisa está [aqui](http://www.sloansportsconference.com/wp-content/uploads/2018/03/1003.pdf))
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2019/10/IMG_5434.jpeg?fit=640%2C402&ssl=1)
+![](<images/IMG_5434.jpeg>)
 
 Messi fazendo uma acrobacia, admirado por Arthur e Piqué
 
@@ -182,7 +182,7 @@ As métricas de pressão apresentadas por Caley foram:
 
 Em certos momentos, a palestra teve um tom de “propaganda” para os dados da StatsBomb, mas isso é compreensível e justo pois os dados fornecidos pela empresa realmente são excelentes (percebi que acabei de replicar o tom de propaganda nessa frase). Caley também mostrou uma análise dos melhores jogadores que conseguem quebrar a pressão e completar passes, veja a foto abaixo (peço desculpas pois está um pouco tremida):
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2019/10/IMG_5439.jpeg?fit=640%2C569&ssl=1)
+![](<images/IMG_5439.jpeg>)
 
 Ranking de jogadores que melhor conseguem passar quando pressionados.
 
@@ -195,7 +195,7 @@ Além disso, Michael Caley focou em alguns times durante a palestra, que se dest
 -   Real Madrid, Real Sociedad, Burnley, Bournemouth, Olympique de Marselha e Lazio tiveram algumas métricas “estranhas” segundo Caley.
 -   Parma foi mal em todos os quesitos de pressão.
 
-![](https://i1.wp.com/algolritmo.com/wp-content/uploads/2019/10/IMG_5438.jpeg?fit=640%2C241&ssl=1)
+![](<images/IMG_5438.jpeg>)
 
 Caley analisou alguns times específicos ao longo de sua palestra, comparando os desempenhos de acordo com diferentes métricas de pressão
 
@@ -205,7 +205,7 @@ Por fim, todos os presentes gostaram de uma dica dada pelo palestrante ao final 
 
 **Palestrante**: Adrien Terascon, chefe de análise de partidas no Paris Saint-Germain
 
-![](https://i2.wp.com/algolritmo.com/wp-content/uploads/2019/10/1200px-Paris_Saint-Germain_F.C..svg_.png?fit=640%2C640&ssl=1)
+![](<images/1200px-Paris_Saint-Germain_F.C..svg_.png>)
 
 Nessa palestra, Terascon mostrou como o PSG tem incorporado a análise de dados no dia a dia do clube. O palestrante apresentou alguns dos diversos processos muito bem definidos que o clube utiliza para, segundo ele, produzir uma “compreensão futebolística orientada por dados”. Segundo Terascon, é essencial ter um modelo de jogo claramente definido pelo time. Por exemplo, para o PSG é essencial que o time consiga levar a bola até “área preferidas de cruzamento” (preferred crossing areas, abreviado para PCA). As PCAs são as zonas mais abertas e dentro da área, o time sabe que consegue ser perigoso se levar a bola até lá. O PSG tem diversos pilares para seu modelo de jogo, mas Adrien Terascon não podia revelar todos os segredos de seu time, principalmente pois analistas de potenciais adversários estavam na plateia ouvindo atentamente.
 
@@ -217,7 +217,7 @@ Com o modelo de jogo definido, os analistas desenvolvem diversos indicadores de 
 -   Processos de avaliação de jogadores
 -   Estudos de adversários
 
-![](https://i1.wp.com/algolritmo.com/wp-content/uploads/2019/10/IMG_5447-1.jpeg?fit=640%2C376&ssl=1)
+![](<images/IMG_5447-1.jpeg>)
 
 A foto está um pouco embaçada, mas podemos ver alguns exemplos de instruções personalizadas que o PSG criou para Gueye, Herrera e Marquinhos contra o Real Madrid.
 
@@ -227,7 +227,7 @@ Outro ponto que Terascon enfatizou foi a simplicidade na comunicação. Os técn
 
 Durante a palestra ele também mostrou um exemplo de análises que fizeram antes da partida contra o Real Madrid (que venceram por 3 a 0 na atual Champions League). Eles sabiam que precisavam tomar cuidado com as transições ofensivas e cruzamentos do Real Madrid (o Real é um dos times de ponta que mais cruza a bola). Para isso, buscaram providenciar diferentes instruções para os jogadores de forma que o time fosse inteligente e controlasse onde perderiam a bola: buscavam arriscar mais em zonas onde o Real Madrid não teria tanta chance de encaixar contra-ataques bem-sucedidos. Além disso tentaram neutralizar jogadores que iniciam a transição e que acertam cruzamentos.
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2019/10/IMG_5448.jpeg?fit=640%2C344&ssl=1)
+![](<images/IMG_5448.jpeg>)
 
 Terascon explicou que a informação precisa ser transmitida da forma mais simples possível.
 
@@ -241,13 +241,13 @@ Infelizmente, assim como a palestra de Vosse de Boode (do Ajax), essa apresenta�
 
 Thom Lawrence, CTO da StatBomb, foi outro palestrante que buscou entender ações no futebol além de chutes. Thom acredita que o futebol tem elementos primordiais que vão muito além de gols e finalizações, mas teme que no fundo talvez o esporte seja uma simples busca por bons chutes para gerar gols com facilidade. O apresentador gosta de modelos como o EPV, mas sabe de suas limitações (difícil definir exatamente o que é uma posse no futebol por exemplo). Por isso ele tentou analisar o problema usando diversos métodos.
 
-![](https://i1.wp.com/algolritmo.com/wp-content/uploads/2019/10/IMG_5467.jpeg?fit=640%2C253&ssl=1)
+![](<images/IMG_5467.jpeg>)
 
 Thom Lawrence iniciou sua palestra comentando sobre alguns problemas que enxerga em modelos de EPV (Expected Possession Value)
 
 Nessa palestra, Thom falou em detalhes de diferentes técnicas de reinforcement learning (um “tipo” específico de inteligência artificial) que poderiam ser aplicadas para entender o valor de diversas ações no futebol. Segundo o apresentador, alguns desses modelos são extremamente pesados em termos de computacionais, ele brincou que o ideal é “rodar esses modelos em máquinas AWS pagas por seu clube/empresa até que você os leve a declarar falência”. Uma das principais vantagens das técnicas apresentadas é o fato dos modelos poderem ser criados com “dados crus” (raw data). Você não precisa fazer tratamentos extra, como adicionar zonas a partir de coordenadas (x,y).
 
-![](https://i2.wp.com/algolritmo.com/wp-content/uploads/2019/10/IMG_5470.jpeg?fit=640%2C421&ssl=1)
+![](<images/IMG_5470.jpeg>)
 
 Alguns dos princípios de “desenvolvimento orientado a testes”
 
@@ -270,7 +270,7 @@ Também houve uma discussão interessante sobre sinal v.s. ruído. Existe pouco 
 
 O podcast da StatsBomb é um dos mais conhecidos no mundo de soccer analytics, e foi bacana poder vê-lo/ouvi-lo ao vivo. Os participantes falaram um pouco do estado atual de analytics, principalmente na Europa, e como estamos avançando rápido. Times das ligas mais fortes cada vez mais percebem o valor da análise de dados e estão contratando mão de obra qualificada. O Liverpool, que venceu a Champions, por exemplo conta com 4 PhDs e contribuiu muito para a difusão do valor da análise de dados. Segundo os participantes do podcast, estamos vendo cada vez menos transferências “idiotas” de jogadores, principalmente na Inglaterra (acho que o mesmo ainda não pode ser falado com tanta certeza sobre times do Brasil). Depois disso, o principal tópico foi o campeonato inglês. Fizeram breve análises bem-humoradas, porém repletas de informação, sobre os principais times do Premier League. 
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2019/10/IMG_5472.jpeg?fit=640%2C309&ssl=1)
+![](<images/IMG_5472.jpeg>)
 
 (Da esquerda para a direita) Pugsley, Knutson e Yorke no podcast da StatsBomb ao vivo
 

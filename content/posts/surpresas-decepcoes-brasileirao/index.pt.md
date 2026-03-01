@@ -14,11 +14,11 @@ Elencos mais caros possuem atletas melhores e, portanto, melhores condições de
 
 Primeiro, coletei os dados de valor de mercado dos jogadores de cada time no site transfermarkt.com. Grande parte dos valores são de maio 2016, quando o Brasileirão estava apenas começando, ou seja, o desempenho dos atletas ao longo do campeonato não afetou os dados. Depois calculei o valor médio dos jogadores para cada time e ordenei os clubes a partir desses valores, abaixo está como ficou esse ranking de elencos:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-05-at-12.57.07-PM-300x287.png?resize=558%2C534)
+![](<images/Screen-Shot-2017-01-05-at-12.57.07-PM-300x287.png>)
 
 Por último comparei o ranking de elencos com a classificação final de cada time calculando a diferença de posição. Uma diferença negativa significa que o elenco desempenhou abaixo do esperado, e uma diferença positiva significa que o time surpreendeu.
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-05-at-12.57.24-PM-300x274.png?resize=569%2C520)
+![](<images/Screen-Shot-2017-01-05-at-12.57.24-PM-300x274.png>)
 
 **Resultados:** 
 
@@ -28,7 +28,7 @@ Primeiro podemos ver que existe uma correlação moderada entre as posições fi
 
 Feita essa análise inicial, separei os 4 times com as maiores diferenças positivas (Botafogo, Santos, Atlético-PR e Ponte Preta) e os 4 com maiores diferenças negativas (Internacional, Cruzeiro, São Paulo e Fluminense). Esses são os clubes que o modelo mais errou na previsão, pode-se dizer que esses times tiveram um rendimento muito diferente daquilo que era esperado para seus elencos.
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/01/surpresasDecepcoes-300x300.png?resize=589%2C589)
+![](<images/surpresasDecepcoes-300x300.png>)
 
 Agora que a análise quantitava já nos deixou claro as principais surpresas e decepções desse campeonato podemos olhar qualitativamente para os motivos por trás desses desempenhos. Ao analisar o ano dos clubes fica claro que o **conhecimento das peças do elenco** é essencial para se obter um bom desempenho.
 

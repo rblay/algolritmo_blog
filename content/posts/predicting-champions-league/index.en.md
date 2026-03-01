@@ -6,7 +6,7 @@ draft: false
 
 Last week, I received the great news that I was selected by StrataBet (a sports betting website) to receive extremely detailed material on European soccer leagues. Using this data along with some Computer Science knowledge I prepared a simulation of the UEFA Champions League, which begins its knockout phase today.
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/02/confrontos-1-300x169.jpg?resize=640%2C360)
+![](<images/confrontos-1-300x169.jpg>)
 
 **Assumptions:**
 
@@ -20,11 +20,11 @@ First, we need to look at the die used by an ordinary football team. If teams us
 
 I used information on the top European leagues and calculated the average number of goals scored by a team during a game: **1.31 goals**. Then, I applied the Poisson formula to that value to predict the probability of scoring a specific number of goals throughout the match and compared that with what actually happened in the data:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/02/poisson-1-300x219.png?resize=627%2C458)
+![](poisson-1-300x219.png)
 
 We can see that the Poisson distribution is a good approximation of what actually happens in the data. The next step is to understand the “weight” of the die used by **each team**. For this I used a measure called **expected goals**, which I calculated using the detailed material provided by StrataBet. This is a metric widely used by football analysts and is calculated according by the quality of shots and the chances created by each team (I plan on going into more detail about expected goals in a future text). In the previous post, we saw that the gross number of goals has some inaccuracies, the number of goals expected is a more accurate measure of the quality of a team. I calculated the **expected goals-for playing home** (xGF home), **expected goals-for playing away** (xGF away), **expected goals-against playing home** (xGA home) and the **expected goals-against playing away** (visiting xGC). The expected goals data for clubs that still compete for the Champions League are summarized in this table:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/02/tabXG-1-300x234.png?resize=640%2C499)
+![](tabXG-1-300x234.png)
 
 It is important to emphasize that the above values were adjusted according to the quality of the opponents faced by the teams. The adjustment was made using the “Euro Club Index” which makes a ranking of the clubs in Europe. If you want to better understand how the expected goal values were used and how the adjustments were made please see the “Observations” section.
 
@@ -32,13 +32,13 @@ It is important to emphasize that the above values were adjusted according to th
 
 After the 20,000 simulations, the program counted the number of times each team won the simulated Champions League, these values are presented in the following. The size of the badge of each club is proportional to the number of times the team was champion:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/02/tabChampsOficial-230x300.png?resize=640%2C835)
+![](tabChampsOficial-230x300.png)
 
 The result are close to what was expected, Europe’s most powerful teams like Barcelona, Real Madrid and Bayern Munich are among the most likely to win the competition. However, the fact that the competition is a knockout allows smaller teams to make historic campaigns and beat the favorites. This is unlikely to happen, but in about 3% of the 20,000 simulations teams like Bayern Leverkusen and Leicester City won the most coveted tournament in Europe.
 
 In case you are interested in the model and are thinking about betting on soccer games, I suggest you look at the StrataBet website. To help those interested, I’ve separated the simulation of only the first legs of the Round-of 16 games, which will happen in the next two weeks. Below are the probabilities of each outcome:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/02/oitavas-1-300x236.png?resize=640%2C504)
+![](<images/oitavas-1-300x236.png>)
 
 I don’t take responsibility for any losses of your assets, but I accept part of the profit in the form of a donation if you win something!
 

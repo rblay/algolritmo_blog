@@ -6,7 +6,7 @@ draft: false
 
 No começo da semana passada, recebi a grata notícia de que fui selecionado pela StrataBet (um site de apostas de esporte) para receber um material extremamente detalhado sobre ligas europeias de futebol. Utilizando esses dados juntamente com alguns conhecimentos de computação preparei uma simulação da UEFA Champions League, que começa sua fase mata-mata hoje.
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/02/confrontos-300x169.jpg?resize=595%2C335)
+![](<images/confrontos-300x169.jpg>)
 
 **Pressupostos:**
 
@@ -20,11 +20,11 @@ Primeiramente, precisamos analisar o “dado de tabuleiro” utilizado por um ti
 
 Utilizei as informações sobre as principais ligas Europeias e calculei a média de gols feitos por um time durante uma partida: **1,31 gols**. Com esse valor apliquei a fórmula de Poisson para prever a probabilidade de se marcar um número específico de gols ao longo da partida e comparei com o que de fato aconteceu:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/02/poisson-300x224.png?resize=607%2C454)
+![](poisson-300x224.png)
 
 Podemos ver que a distribuição Poisson é uma boa aproximação do que acontece de fato. O próximo passo é entender o “peso” do “dado de tabuleiro” de **cada time**. Para isso utilizei uma medida chamada **gols esperados** que calculei com o material detalhado fornecido pela StrataBet. Essa é uma métrica bastante usada por analistas de futebol e é calculada através da qualidade dos chutes e das chances criadas por cada time (em um outro post pretendo entrar em mais detalhes sobre como a medida é feita). No último [post](https://algolritmo.com/index.php/2017/01/31/measuring-goal-relevance/) vimos que o número bruto de gols possui algumas imprecisões, o número de **gols esperados** é uma medida mais precisa da qualidade de um time. Calculei as médias de **gols pró esperados como mandante** (xGP mandante), **gols pró como visitante** (xGP visitante), **gols contra esperados como mandante** (xGC mandante) e **gols contra esperados como visitante** (xGC visitante). Esses valores para os clubes que ainda disputam a Champions League estão resumidos nessa tabela:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/02/tabXG-300x236.png?resize=607%2C477)
+![](tabXG-300x236.png)
 
 É importante ressaltar que os valores acima foram ajustados de acordo com a qualidade dos adversários enfrentados pelos times. O ajuste foi feito utilizando o “Euro Club Index” que faz um ranking dos clubes na Europa. Se você quer entender melhor como os valores de **gols esperados** foram usados no modelo e como os ajustes foram feitos por favor veja a seção “Observações”.
 
@@ -32,13 +32,13 @@ Podemos ver que a distribuição Poisson é uma boa aproximação do que acontec
 
 Feitas as 20.000 simulações, o programa contou o número de vezes que cada time foi campeão em nossa Champions League simulada, esses valores estão apresentados no gráfico a seguir (em porcentagens). O tamanho do distintivo de cada clube é proporcional ao número de vezes que o time foi campeão após a simulação:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/02/campeoes-232x300.png?resize=573%2C741)
+![](<images/campeoes-232x300.png>)
 
 O Resultado é bem próximo do esperado, os times mais poderosos da Europa como Barcelona, Real Madrid e Bayern de Munique aparecem entre os mais prováveis para vencer a competição. Porém, o fato da competição ser mata-mata permite que times menores façam campanhas históricas e desbanquem favoritos. É improvável que isso aconteça, mas em cerca de 3% das 20.000 simulações times como o Bayern Leverkusen e o Leicester City venceram o torneio mais cobiçado da Europa.
 
 Caso você tenha se interessado pelo método e esteja pensando em apostar em jogos de futebol, sugiro dar uma olhada no site da StrataBet. Para ajudar os interessados, separei a simulação apenas dos primeiros jogos das oitavas de final, que acontecem nas próximas duas semanas. Abaixo estão as probabilidades de cada resultado:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/02/oitavas-300x230.png?resize=640%2C490)
+![](<images/oitavas-300x230.png>)
 
 Não me responsabilizo por eventuais perdas de seu patrimônio, mas aceito parte do lucro em forma de doação caso você ganhe algo!
 

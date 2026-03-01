@@ -12,7 +12,7 @@ The data used in this analysis is provided by Instat, if you are interested in t
 
 We calculated the effectiveness of goalkeepers through the “percentage of saves above expected”, abbreviated to **%SAE**. Briefly, this metric indicates how a goalkeeper performed in relation to what is expected of an “average goalkeeper”. The goalkeepers who stood out with this statistic were these:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2019/02/imagensGoleiros_en.png?resize=640%2C885)
+![](<images/imagensGoleiros_en.png>)
 
 Analyzing statistically, the best goalkeeper of the tournament would be Santos, goalkeeper of Athlético Paranaense (usually abbreviated to CAP in Brazil). Santos performed very well on the tournament and had a major role in CAP’s comeback during the second half of the season. The goalkeeper of the club from Paraná ended the year extremely valued and increasingly consolidated as a relevant name in Brazilian football.
 

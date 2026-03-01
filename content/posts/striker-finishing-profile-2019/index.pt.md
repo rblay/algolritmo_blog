@@ -13,7 +13,7 @@ Os atacantes do Brasileirão 2019 podem ser divididos em 4 diferentes perfis de 
 -   Número de chutes a cada 90 min (Chutes/90 min)
 -   Qualidade de cada chute (xG/Chute)
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2019/11/atacantes-1-scaled.png?fit=640%2C366&ssl=1)
+![](<images/atacantes-1-scaled.png>)
 
 **1\. Menos chutes de menos qualidade**
 
@@ -23,9 +23,9 @@ Muitos desses jogadores são pontas, então não conseguem tantas grandes oportu
 -   A. Victor (BAH)
 -   Clayson (COR)
 
--   ![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2019/11/20_7io9xsM.jpg?resize=640%2C490&ssl=1)
+-   ![](<images/20_7io9xsM.jpg>)
     
--   ![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2019/11/artur-bahia.jpg?resize=550%2C320&ssl=1)
+-   ![](<images/artur-bahia.jpg>)
     
 
 **2\. Mais chutes de menos qualidade**
@@ -36,9 +36,9 @@ Os jogadores nesse grupo arriscam muitos chutes por jogo, no entanto nem sempre 
 -   Marinho (SAN)
 -   Vitinho (FLA)
 
--   ![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2019/11/2019-08-05t235113z_188660446_rc1335892e10_rtrmadp_3_soccer-brazil-gre-chp.jpg?resize=640%2C453&ssl=1)
+-   ![](<images/2019-08-05t235113z_188660446_rc1335892e10_rtrmadp_3_soccer-brazil-gre-chp.jpg>)
     
--   ![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2019/11/20190828141023154567o.jpg?resize=640%2C427&ssl=1)
+-   ![](<images/20190828141023154567o.jpg>)
     
 
 **3\. Menos chutes de mais qualidade**
@@ -49,9 +49,9 @@ Aqui temos os clássicos centroavantes de área. Eles geralmente finalizam em re
 -   Boselli (COR)
 -   M. Ruben (CAP)
 
--   ![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2019/11/whatsapp-image-2019-10-09-at-21.47.09.jpeg?resize=640%2C427&ssl=1)
+-   ![](<images/whatsapp-image-2019-10-09-at-21.47.09.jpeg>)
     
--   ![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2019/11/https___timaoweb-com-br.exactdn.com_wp-content_uploads_2019_11_Boselli-Corinthians-3-x-2-Fortaleza.jpg?fit=640%2C480&ssl=1)
+-   ![](https___timaoweb-com-br.exactdn.com_wp-content_uploads_2019_11_Boselli-Corinthians-3-x-2-Fortaleza.jpg)
     
 
 **4\. Mais chutes de mais qualidade**
@@ -62,6 +62,6 @@ Nesse grupo estão os jogadores de maior impacto e maior perigo. Conseguem muita
 -   B. Henrique (FLA)
 -   A Caike (BAH)
 
--   ![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2019/11/gabigol.jpg?resize=640%2C336&ssl=1)
+-   ![](<images/gabigol.jpg>)
     
--   ![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2019/11/de-novo-bruno-henrique-flamengo-vence-e-dispa.jpg?resize=640%2C390&ssl=1)
+-   ![](<images/de-novo-bruno-henrique-flamengo-vence-e-dispa.jpg>)

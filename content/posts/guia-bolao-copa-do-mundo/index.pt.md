@@ -8,36 +8,36 @@ Amanhã começa a Copa do Mundo, e a maioria dos torcedores está finalizando se
 
 **Mata-mata mais provável**
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-13-at-8.54.23-AM-300x158.png?resize=640%2C337)
+![](<images/Screen-Shot-2018-06-13-at-8.54.23-AM-300x158.png>)
 
 **Confrontos do Grupo A**
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-12-at-11.17.01-PM-300x132.png?resize=640%2C282)
+![](<images/Screen-Shot-2018-06-12-at-11.17.01-PM-300x132.png>)
 
 **Confrontos do Grupo B**
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-12-at-11.18.38-PM-300x132.png?resize=636%2C280)
+![](<images/Screen-Shot-2018-06-12-at-11.18.38-PM-300x132.png>)
 
 **Confrontos do Grupo C**
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-12-at-11.20.34-PM-300x132.png?resize=638%2C281)
+![](<images/Screen-Shot-2018-06-12-at-11.20.34-PM-300x132.png>)
 
 **Confrontos do Grupo D**
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-12-at-11.26.45-PM-300x132.png?resize=634%2C279)
+![](<images/Screen-Shot-2018-06-12-at-11.26.45-PM-300x132.png>)
 
 **Confrontos do Grupo E**
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-12-at-11.28.25-PM-300x132.png?resize=640%2C281)
+![](<images/Screen-Shot-2018-06-12-at-11.28.25-PM-300x132.png>)
 
 **Confrontos do Grupo F**
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-12-at-11.30.30-PM-300x132.png?resize=640%2C282)
+![](<images/Screen-Shot-2018-06-12-at-11.30.30-PM-300x132.png>)
 
 **Confrontos do Grupo G**
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-12-at-11.32.15-PM-300x131.png?resize=640%2C280)
+![](<images/Screen-Shot-2018-06-12-at-11.32.15-PM-300x131.png>)
 
 **Confrontos do Grupo H**
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-12-at-11.34.21-PM-300x132.png?resize=640%2C281)
+![](<images/Screen-Shot-2018-06-12-at-11.34.21-PM-300x132.png>)

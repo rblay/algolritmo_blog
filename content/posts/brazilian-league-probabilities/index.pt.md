@@ -8,11 +8,11 @@ Utilizando os ótimos dados que recebo semanalmente STRATABET juntamente com alg
 
 **Resultados:**
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/10/campeoes-210x300.png?resize=366%2C523)
+![](<images/campeoes-210x300.png>)
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/10/libertadores-159x300.png?resize=367%2C692)
+![](<images/libertadores-159x300.png>)
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/10/rebaixamento-179x300.png?resize=369%2C618)
+![](<images/rebaixamento-179x300.png>)
 
 Caso queira entender o modelo usado abaixo estão os detalhes:
 
@@ -28,13 +28,13 @@ Primeiramente, precisamos analisar o “dado de tabuleiro” utilizado por um ti
 
 Utilizei as informações sobre o Campeonato Brasileiro e calculei a média de gols feitos por um time durante uma partida: **1,17 gols por jogo**. Com esse valor apliquei a fórmula de Poisson para prever a probabilidade de se marcar um número específico de gols ao longo da partida e comparei com o que de fato aconteceu:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/10/poisson-300x225.png?resize=640%2C480)
+![](poisson-300x225.png)
 
 Podemos ver que a distribuição Poisson é uma boa aproximação do que acontece de fato. O próximo passo é entender o “peso” do “dado de tabuleiro” de **cada time**. Para isso utilizei uma medida chamada **gols esperados**, abreviado para **xG,** que calculei com o material detalhado fornecido pela StrataBet. Essa é uma métrica bastante usada por analistas de futebol e é calculada através da qualidade dos chutes e das chances criadas por cada time (já utilizei essa métrica em outros textos do blog). Basicamente, essa métrica atribui um valor entre 0 e 1 para cada finalização do time de acordo com probabilidade daquela bola entrar no gol. Por exemplo, uma finalização de fora da área com a perna ruim (**finalização 1**) tem menos chance de resultar em gol comparada a uma finalização na pequena área sem goleiro (**finalização 2**), portanto a finalização 1 tem um **xG** menor que a finalização 2.
 
 Em posts passados vimos que o número bruto de gols possui algumas imprecisões, o número de **gols esperados** é uma medida mais precisa da qualidade de um time. Calculei as médias de **gols pró esperados como mandante** (xGP mandante), **gols pró como visitante** (xGP visitante), **gols contra esperados como mandante** (xGC mandante) e **gols contra esperados como visitante** (xGC visitante). Esses valores para os clubes que disputam o Campeonato Brasileiro estão resumidos nessa tabela:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/10/tabelaXg-1-280x300.png?resize=640%2C685)
+![](tabelaXg-1-280x300.png)
 
 Feitas as 10.000 simulações, o programa contou o número de vezes que cada time foi campeão, se classificou para libertadores ou foi rebaixado em nosso Brasileirão simulado, esses valores estão apresentados nos gráficos apresentados no início do texto.
 

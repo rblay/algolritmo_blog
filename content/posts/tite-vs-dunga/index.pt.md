@@ -16,25 +16,25 @@ O valor esperado de gols (xG) é uma medida que vem ganhando muita popularidade 
 
 Assisti a todas as finalizações feitas e sofridas pelo Brasil durante as eliminatórias e utilizei a ferramenta [quasegol.com.br](http://quasegol.com.br/) (criada pelo jornalista Gustavo Fogaça) para obter o xG de cada chute. Foram 6 jogos sob o comando de Dunga (3 como mandante e 3 como visitante) e 6 jogos na era Tite (3 como mandante e 3 como visitante). Abaixo você vê um exemplo de uma finalização computada no _Quase Gol_:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-17-at-3.04.34-PM-300x108.png?resize=619%2C223)
+![](<images/Screen-Shot-2017-03-17-at-3.04.34-PM-300x108.png>)
 
 **Resultados:**
 
 Utilizando esses dados criei dois gráficos para comparar os desempenhos de Tite e Dunga. No primeiro é possível analisar o número de chutes feitos pelo Brasil e o valor esperado de gols pró para cada jogo das eliminatórias:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-17-at-3.57.23-PM-300x257.png?resize=640%2C549)
+![](<images/Screen-Shot-2017-03-17-at-3.57.23-PM-300x257.png>)
 
 Não é possível notar uma diferença muito clara entre as seleções de Tite e Dunga em termos de ataque. No geral o time de Tite **cria mais** e tem **chances melhores**, mas o desempenho ofensivo do time de Dunga não era tão inferior ao de Tite como muitos imaginam. É quase natural que qualquer time com jogadores como Neymar, Philippe Coutinho, Gabriel Jesus, Douglas Costa e Willian vá criar diversas boas chances.
 
 O segundo gráfico mostra as finalizações sofridas pelo Brasil e o valor esperado de gols contra para cada jogo das eliminatórias, aqui as diferenças começam a ficar mais nítidas:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-17-at-3.57.12-PM-300x261.png?resize=640%2C557)
+![](<images/Screen-Shot-2017-03-17-at-3.57.12-PM-300x261.png>)
 
 A distribuição dos pontos nesse gráfico é muito interessante, podemos agrupar de forma bem clara os jogos de acordo com o treinador. O time de Tite além de sofrer **menos chutes** também sofre **finalizações com xG menor** em média. Apesar de poucos jogos, a melhora no comportamento defensivo sob o comando de Tite parece ser muito relevante. O novo treinador consolidou o esquema tático 4-1-4-1 (inicialmente implementado por Dunga) com peças como Marcelo, Renato Augusto, Casemiro e Fernandinho (que entrou após a lesão do volante do Real Madrid).
 
 A seguir vemos um resumo da comparação entre os técnicos:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-17-at-2.24.22-PM-273x300.png?resize=512%2C563)
+![](<images/Screen-Shot-2017-03-17-at-2.24.22-PM-273x300.png>)
 
 Admito que a princípio acreditava que o sucesso de Tite se daria por conta de uma grande eficiência ofensiva, principalmente com a chegada de Gabriel Jesus e a afirmação de Philippe Coutinho no time titular, no entanto a eficiência defensiva parece ser o novo grande segredo da seleção. Ao defender, o time diminui os espaços e reduz as opções de ataque para o adversário, que é obrigado a tentar chutes com pouca probabilidade de entrar no gol.
 

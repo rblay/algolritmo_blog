@@ -12,7 +12,7 @@ Lembre-se de curtir nossa _[página no Facebook](https://www.facebook.com/algolr
 
 A imagem a seguir apresenta a atual probabilidade de cada time ser campeão:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2018/02/campeoes-231x300.png?resize=617%2C802)
+![](<images/campeoes-231x300.png>)
 
 O resultado e bastante próximo daquilo que eu esperava. Manchester City, Bayern de Munique, PSG e Barcelona estão liderando com folga suas ligas nacionais (Inglaterra, Alemanha, França e Espanha, respectivamente), é de se esperar que esses times sejam os favoritos para vencer Liga dos Campeões.
 
@@ -20,7 +20,7 @@ O Real Madrid e o Liverpool aparecem logo a seguir com probabilidades próximas 
 
 A segunda imagem ilustra as probabilidades de vitória, empate e derrota nos jogos de ida das oitavas de final da Champions League, que acontecem nas próximas duas semanas. Caso você tenha se interessado pelo método e esteja pensando em apostar em jogos de futebol, sugiro dar uma olhada no site da StrataBet. Não me responsabilizo por eventuais perdas de seu patrimônio, mas aceito parte do lucro em forma de doação caso você ganhe algo!
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2018/02/oitavasIda-300x225.png?resize=630%2C472)
+![](<images/oitavasIda-300x225.png>)
 
 Para os leitores mais curiosos aqui está um detalhamento do método utilizado.
 
@@ -38,11 +38,11 @@ Utilizei as informações sobre as princip
 
 ais ligas Europeias (na temporada 2016-2017) e calculei a média de gols feitos por um time durante uma partida: **1,31 gols**. Com esse valor apliquei a fórmula de Poisson para prever a probabilidade de se marcar um número específico de gols ao longo da partida e comparei com o que de fato aconteceu:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2018/02/poisson-300x224.png?resize=615%2C459)
+![](poisson-300x224.png)
 
 Podemos ver que a distribuição Poisson é uma boa aproximação do que acontece de fato. O próximo passo é entender o “peso” do “dado de tabuleiro” de **cada time**. Para isso utilizei uma medida chamada **gols esperados** que calculei com o material detalhado fornecido pela StrataBet. Essa é uma métrica bastante usada por analistas de futebol e é calculada através da qualidade dos chutes e das chances criadas por cada time. Em um post mais antigo vimos que o número bruto de gols possui algumas imprecisões, o número de **gols esperados** é uma medida mais precisa da qualidade de um time. Calculei as médias de **gols pró esperados como mandante** (xGP mandante), **gols pró como visitante** (xGP visitante), **gols contra esperados como mandante** (xGC mandante) e **gols contra esperados como visitante** (xGC visitante). Esses valores para os clubes que ainda disputam a Champions League estão resumidos nessa tabela:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2018/02/tabXgOitavasIda-300x261.png?resize=589%2C512)
+![](tabXgOitavasIda-300x261.png)
 
 É importante ressaltar que os valores acima foram ajustados de acordo com a qualidade dos adversários enfrentados pelos times. O ajuste foi feito utilizando o “Euro Club Index” que faz um ranking dos clubes na Europa. Se você quer entender melhor como os valores de **gols esperados** foram utilizados e como os ajustes foram feitos por favor veja a seção “Observações”.
 

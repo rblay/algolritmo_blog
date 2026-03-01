@@ -12,7 +12,7 @@ Os dados utilizados para essa análise são fornecidos pela Instat, caso se inte
 
 Calculamos a efetividade dos goleiros através da “porcentagem de defesas acima do esperado”, abreviado para **%DAE**. Resumidamente, essa métrica indica como foi o desempenho de um goleiro em relação àquilo que se espera de um “goleiro médio”. Os goleiros que mais se destacaram com essa estatística foram estes:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2018/12/imagemGoleiros.png?fit=640%2C990)
+![](<images/imagemGoleiros.png>)
 
 Analisando estatisticamente, o melhor goleiro do campeonato seria Santos, goleiro do Athlético Paranaense. Santos fez um ótimo campeonato e foi parte essencial da retomada do CAP no segundo turno. O goleiro do clube paranaense terminou o ano extremamente valorizado e cada vez mais se consolida como um nome relevante no futebol brasileiro.
 

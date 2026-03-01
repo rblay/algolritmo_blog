@@ -18,11 +18,11 @@ Estou reunindo dois modelos diferentes nesse post, vou explicar cada uma das met
 
 Esse modelo é apresentado e explicado no livro “Os Números do Jogo”, de Chris Anderson e David Sally. Os autores do livro primeiro analisaram o **número médio de pontos** feitos por times que marcaram um número específico de gols. Isto é, usaram uma base de dados com jogos de diversos campeonatos e calcularam a média de pontos conquistados por um time que fez ao longo do jogo 1 gol, 2 gols, 3 gols etc. Para ilustrar, times que fizeram 1 gol no jogo ganharam em média 1,13 pontos enquanto times que fizeram 2 gols no jogo ganharam em média 2,12 (Ao longo do texto apresento uma tabela que resume estes valores). Fiz o mesmo cálculo com os dados do campeonato brasileiro de 2016 e comparei os valores.
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/01/grafico1-300x178.png?resize=640%2C380)
+![](<images/grafico1-300x178.png>)
 
 Através do gráfico, é possível ver que os dados do Brasileirão são bem próximo daqueles calculados por Anderson e Sally. Além disso a figura comprova algo bem intuitivo: fazer mais gols gera mais pontos na média. Usarei os dados do livro para as análises, uma vez que os valores foram calculados utilizando um número maior de jogos. O próximo passo é entender os **pontos marginais de cada gol**, isto é, o quantos pontos o gol X adiciona em relação ao gol X-1. A tabela abaixo resume estes valores e será usada como referência:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/01/tabelaValoresLivro-300x96.png?resize=640%2C205)
+![](tabelaValoresLivro-300x96.png)
 
 Com esses números agora podemos calcular quantos pontos marginais de cada jogador de acordo com seus gols longo do campeonato. Por exemplo, se o jogador X fizer o primeiro e segundo gol do time dele em uma partida, seus gols valeram 0,85 + 0,99, isto é, 1,84 **pontos marginais**. Se outro jogador Y fizer o terceiro e quarto gol nessa mesma partida, ele recebe 0,55 + 0,23, isto é, 0,78 **pontos marginais.** Ambos jogadores fizeram 2 gols, no entanto os gols feitos pelo primeiro garantiram mais pontos para seu time, por isso valem mais.
 
@@ -36,11 +36,11 @@ Por exemplo, vamos supor um jogo imaginário entre time A e time B para deixar o
 
 Com as métricas acima fiz 2 novos rankings de jogadores e comparei com a tradicional artilharia.
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/01/imagemComparativo-300x232.png?resize=640%2C495)
+![](<images/imagemComparativo-300x232.png>)
 
 Como podemos ver muitos nomes estão presentes nas 3 listas, mas suas posições variam. Todos os jogadores acima são peças interessantes, mas é importante entender as algumas de suas diferenças. Uma boa ilustração disso é o comparativo entre Sassá (do Botafogo) e Marinho (do Vitória), dois jogadores que ficaram empatados com 12 gols na artilharia convencional.
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/01/sassavsmarinho-1-300x237.png?resize=553%2C437)
+![](<images/sassavsmarinho-1-300x237.png>)
 
 Sassá fez 7 gols impactantes e 10,32 pontos marginais, enquanto Marinho fez 11 gols impactantes e 9,7 pontos marginais. É possível dizer que nesse campeonato os gols de Sassá em geral serviram para ampliar vitórias do Botafogo, uma vez que muitos de seus gols deixaram o placar 2 a 0 ou 3 a 0. Já os gols de Marinho, em sua maioria, mudaram as perspectivas de uma partida para o Vitória e foram essenciais na conquista de empates e vitórias que mantiveram o time na primeira divisão. Assim, ambos jogadores tiveram importante papel ao garantir pontos para seus times, no entanto os gols de Marinho aconteceram com placares de jogo mais delicados.
 

@@ -12,7 +12,7 @@ Remember to like our _[Facebook page](https://www.facebook.com/algolritmo)_!
 
 The following image presents the current probability of each team winning the UEFA Champions League:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2018/02/probUCL18ChampionRound16Leg1-230x300.png?resize=626%2C817)
+![](probUCL18ChampionRound16Leg1-230x300.png)
 
 The result is quite close to what I expected. Manchester City, Bayern Munich, PSG and Barcelona are leading their national leagues (England, Germany, France and Spain respectively), it is to be expected that these teams will be favorites to win the Champions League.
 
@@ -20,7 +20,7 @@ Real Madrid and Liverpool appear soon to follow with near odds to win the tourna
 
 The second image illustrates the chances of win, draw and defeat in the first leg of the UEFA Champions League round of 16, which will happen in the next two weeks. If you are interested in the method presented and are considering betting on soccer games, I suggest you take a look at the StrataBet website. I am not responsible for any losses of your assets, but I accept part of the profit in the form of a donation if you win something!
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2018/02/probUCL18Round16Leg1-300x226.png?resize=631%2C475)
+![](probUCL18Round16Leg1-300x226.png)
 
 For the more curious readers here is a detail of the method used.
 
@@ -36,11 +36,11 @@ First, we need to look at the die used by an ordinary football team. If teams us
 
 I used information on the top European leagues and calculated the average number of goals scored by a team during a game: **1.31 goals**. Then, I applied the Poisson formula to that value to predict the probability of scoring a specific number of goals throughout the match and compared that with what actually happened in the data:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2018/02/poisson-1-300x219.png?resize=601%2C439)
+![](poisson-1-300x219.png)
 
 We can see that the Poisson distribution is a good approximation of what really happens in the data. The next step is to understand the “weight” of the die used by **each team**. For this I used a measure called **expected goals**, which I calculated using the detailed material provided by StrataBet. This is a metric widely used by football analysts and is calculated according by the quality of shots and the chances created by each team. In a previous post, we saw that the gross number of goals has some inaccuracies, the number of goals expected is a more accurate measure of the quality of a team. I calculated the **expected goals-for playing home** (xGF home), **expected goals-for playing away** (xGF away), **expected goals-against playing home** (xGA home) and the **expected goals-against playing away** (visiting xGC). The expected goals data for clubs that still compete for the Champions League are summarized in this table:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2018/02/tableUCL18XgRoundOf16Leg1-1-300x260.png?resize=593%2C514)
+![](tableUCL18XgRoundOf16Leg1-1-300x260.png)
 
 It is important to emphasize that the above values were adjusted according to the quality of the opponents faced by the teams. The adjustment was made using the “Euro Club Index” which makes a ranking of the clubs in Europe. If you want to better understand how the expected goal values were used and how the adjustments were made please see the “Observations” section.
 

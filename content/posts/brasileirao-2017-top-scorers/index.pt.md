@@ -22,19 +22,19 @@ Utilizei os dados da Stratabet sobre o Campeonato Brasileiro e criei um “Artil
 
 Aqui está a tabela que traz, lado a lado, a artilharia “normal” e a artilharia de gols esperados:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/07/artilhariaXG_tabela_pt-296x300.png?resize=640%2C649)
+![](<images/artilhariaXG_tabela_pt-296x300.png>)
 
 Podemos ver que muitos nomes possuem números próximos em ambas listas. Um bom exemplo é Henrique Dourado que tem o **xG** de 8,79 e marcou 9 gols, ou seja, esperava-se que o atacante do Fluminense fizesse 8,79 gols e ele anotou 9. Outro exemplo é Lucca, da Ponte Preta, que tem o **xG** de 6,53 e 7 gols feitos. O número de gols feitos por esses jogadores está de acordo com a quantidade e qualidade de chances que tiveram até agora no campeonato brasileiro, não desperdiçaram chances muito claras, mas também não marcaram gols demasiadamente improváveis. Em outras palavras, os jogadores que possuem um **xG** próximo ao número de gols feitos estão aproveitando as oportunidades ao longo da partida de forma esperada.
 
 No entanto, alguns nomes possuem uma grande diferença entre seu **xG** (valor esperado de gols) e o número de gols. Vamos primeiro analisar aqueles que possuem um **xG** maior que seu número de gols:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/07/azarados_pt-1-300x249.png?resize=640%2C532)
+![](<images/azarados_pt-1-300x249.png>)
 
 A imagem acima traz os jogadores que possuem a maior diferença entre o **xG** (valor esperado de gols) e a quantidade de gols feitos, portanto, estão fazendo menos gols do que o esperado. Essa diferença entre o **xG** e o número de gols pode ser compreendida de 2 maneiras distintas. A primeira é que esses jogadores simplesmente estão vivendo um período de “azar”. Eles finalizam diversas vezes e criam boas oportunidades, mas as vezes a bola simplesmente não entra. A segunda visão possível é que eles têm sido ineficientes. Pode-se entender que jogadores como **Pratto**, **Luan** e **Everaldo**, mesmo figurando entre os artilheiros do campeonato, estão desperdiçando chances demais e “devendo” em termos de gols.
 
 Agora, vamos olhar para o outro extremo, os jogadores com um número de gols significativamente maior que seu **xG**:
 
-![](https://i0.wp.com/algolritmo.com/wp-content/uploads/2017/07/sortudos_pt-300x244.png?resize=640%2C520)
+![](<images/sortudos_pt-300x244.png>)
 
 Os jogadores presentes no quadro acima possuem o número de gols maior que o seu **xG**, pode-se dizer que esses estão fazendo mais gols do que esperado de acordo com suas finalizações e oportunidades. Novamente, a diferença entre o número de gols e o **xG** pode ser entendida de 2 formas. Por um lado, é possível enxergar esses jogadores como “sortudos”, fazendo gols improváveis e com atuações nas quais tudo parece dar incrivelmente certo. Por outro lado, pode-se dizer que os números desses jogadores não estão relacionados a sorte e sim a eficiência e competência. De acordo com essa teoria, atacantes como **Copete**, **Everton** e **Jô** conseguem ser cirúrgicos e transformar um grande número de suas finalizações em gol.
 
