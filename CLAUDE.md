@@ -10,11 +10,8 @@ Live at: `https://rblay.github.io/algolritmo_blog/` (temporary until domain tran
 
 ## Next Steps (priority order)
 
-### 1. Download post images — BLOCKING (do before cancelling WordPress)
-All migrated posts reference images hosted at `i0.wp.com/algolritmo.com/wp-content/uploads/...`.
-These will break when WordPress hosting is cancelled.
-
-**Fix:** Download each image, place it in the post's own folder (page bundle), and update the markdown `![](url)` references to use the local filename instead.
+### ~~1. Download post images~~ — DONE ✓
+All 176 images downloaded from WordPress CDN (`i0`/`i1`/`i2.wp.com`) and placed in each post's `images/` subfolder. All markdown references updated to local paths. Committed and deployed (commit `be89b71`).
 
 ### 2. Translate PT-only posts
 These posts exist only in Portuguese and need English versions (`index.en.md`):
@@ -35,7 +32,7 @@ Cards on the homepage currently show no image. To add them:
 - Update `baseURL` in `hugo.toml` to `https://algolritmo.com/`
 
 ### 5. Archive WordPress + cancel hosting
-Only after step 1 (post images) is done.
+Step 1 is done — safe to proceed.
 
 ### 6. Open Graph tags (nice-to-have)
 Add `og:title`, `og:description`, `og:image` to `layouts/partials/header.html` for proper link previews when sharing posts on social media.
@@ -70,7 +67,8 @@ content/
     └── post-slug/
         ├── index.pt.md    ← always present
         ├── index.en.md    ← optional
-        └── image.png      ← images live alongside the post (page bundle)
+        └── images/        ← all post images live here
+            └── image.png  ← referenced in markdown as ![](images/image.png)
 ```
 
 ## Post Frontmatter
