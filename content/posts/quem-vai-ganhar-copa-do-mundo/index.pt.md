@@ -10,7 +10,7 @@ Copa do Mundo: Um evento esportivo, cultural, social, político, econômico e ac
 
 De acordo com o modelo desenvolvido pelo Algolritmo, essas são as chances de cada seleção vencer a tão sonhada Copa do Mundo:
 
-![](<images/Screen-Shot-2018-06-11-at-8.32.53-AM-275x300.png>)
+![](<images/Screen-Shot-2018-06-11-at-8.32.53-AM.png>)
 
 Segundo nosso modelo, o principal candidato a ganhar o torneio na Rússia é o Brasil. A Seleção brasileira cresceu muito de rendimento desde a chegada do técnico Tite e desponta como um dos favoritos a buscar o a taça e conquistar o Hexa campeonato. Como esperado, as outras seleções que possuem boas chances de levar a Copa do Mundo são a Alemanha, França, Espanha, Argentina e Bélgica. É claro que existe muita imprevisibilidade em um torneio tão curto quanto a Copa, no entanto é muito improvável que algum das seleções citadas não seja campeã.
 
@@ -49,9 +49,9 @@ Com isso em mente, **os indicadores de qualidade do ataque e da defesa** de cad
 
 Dessa forma, foi possível obter um indicador ofensivo e defensivo de cada seleção, que pode ser entendido com **versões mais precisas e ajustadas da média de gols feitos e da média de gols sofridos**. Aqui estão esses valores para cada país:
 
-![](<images/Screen-Shot-2018-06-11-at-8.37.01-AM-276x300.png>)
+![](<images/Screen-Shot-2018-06-11-at-8.37.01-AM.png>)
 
-![](<images/Screen-Shot-2018-06-11-at-8.37.08-AM-278x300.png>)
+![](<images/Screen-Shot-2018-06-11-at-8.37.08-AM.png>)
 
 É claro que é possível questionar alguns dos valores acima, que podem não parecer muito intuitivos. Acredito que o principal dele é o Irã ser o time com o melhor valor no indicador defensivo. Isso acontece, pois, o Irã realmente tem uma defesa difícil de ser vazada pela maioria dos adversários, muitas vezes conseguindo sair do resultado sem levar gol. Por mais que o modelo faça um ajuste por conta da qualidade dos países que o Irã geralmente enfrenta, a seleção Iraniana realmente tende a ter um grande ímpeto defensivo, por exemplo na copa passada o time fez um confronto duro contra a Argentina e foi derrotado apenas por conta de um gol de Messi nos acréscimos, aos 46 do segundo tempo. Vale ressaltar, que a apesar de certa consistência defensiva o time é extremamente improdutivo no ataque, a seleção iraniana tem o 4<sup>o&nbsp;</sup> pior indicador ofensivo entre aqueles que disputarão a Copa do mundo.
 
@@ -74,7 +74,7 @@ Uma vez que esses resultados foram calculados, escrevi um programa em R que é c
     2.  Caso o time jogasse em casa, foram adicionados 100 pontos em seu índice Elo.
     3.  A fórmula é a seguinte:
 
-![](<images/Screen-Shot-2018-06-11-at-8.52.14-AM-300x126.png>)
+![](<images/Screen-Shot-2018-06-11-at-8.52.14-AM.png>)
 
 1.  Ea = probabilidade do time A não perder
 2.  Rb = pontos do time B no índice Elo

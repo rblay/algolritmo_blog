@@ -22,19 +22,19 @@ It is important to note that, when writing this article, the data had last been 
 
 Here is the table that brings, side by side, the “usual” top scorer list and the **xG** rankings:
 
-![](<images/ranking_xg-296x300.png>)
+![](<images/ranking_xg.png>)
 
 We can see that many names have close numbers in both lists. A good example is Henrique Dourado who has a **xG** of 8.79 and scored 9 goals, that is, the Fluminense striker was expected to score 8.79 goals and he scored 9. Another example is Lucca, the Ponte Preta attacker, who has a **xG** of 6.53 and 7 goals scored. The number of goals made by these players is in accordance with the quantity and quality of chances that have had so far in the Brazilian league, they did not waste very clear chances, but also did not score too improbable goals. In other words, players who have an **xG** close to the number of goals they have made are taking advantage of the opportunities throughout the game in the expected way.
 
 However, some names have a big difference between their **xG** (expected goals) and the actual amount goals scored. Let’s first analyze those who have an **xG** greater than their number of goals:
 
-![](<images/unlucky_en-300x249.png>)
+![](<images/unlucky_en.png>)
 
 The image above displays the players who have the biggest difference between the **xG** and the amount of goal, which means they are making fewer goals than expected. This difference between the **xG** and the goals scored can be understood in two different ways. The first is that these players are simply experiencing a period of “bad luck”. They shoot many times and create good opportunities, but sometimes the ball just doesn’t find the back of the net. The second possible prespective is that they have been inefficient. It can be understood that players like Pratto, Luan and Everaldo, even though appear among the league’s top scorers, are wasting too many chances and “lacking” in terms of goals.
 
 Now let’s look at the other extreme, players with a number of goals significantly higher than their **xG**:
 
-![](<images/lucky_en-300x246.png>)
+![](<images/lucky_en.png>)
 
 The players present in the chart above have a significantly higher number of goals than their **xG**, it can be said that they are scoring more goals than expected when taking into consideration the quantity and quality of their shots. Again, the difference between the number of goals and the **xG** can be understood in 2 ways. On the one hand, you can see these players as “lucky”, making improbable goals and participating in matches in which everything seems to work out right. On the other hand, it can be said that the numbers of these players are not related to luck, but to efficiency. Following this theory, strikers like Copete, Everton and Jô have been managed to be extremely accurate and convert many their shots into goals.
 

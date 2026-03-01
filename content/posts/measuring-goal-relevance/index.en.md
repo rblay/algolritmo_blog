@@ -18,13 +18,13 @@ This post includes 2 different models; I will explain each methodology separatel
 
 This model is presented and explained in the book “The Numbers Game”, written by Chris Anderson and David Sally. The authors first analyzed the **average number of points** earned by teams that scored a specific number of goals. In other words, they used a database which included games from tournaments played in several countries and calculated the average points a team received in games they scored 1 goal, 2 goals, 3 goals etc. To illustrate, teams that scored 1 goal during the whole game earn on average 1.13 points while teams that score 2 goals earned on average 2.12 pointes (Further down this text there is a table which sums up these values). I did the same calculations using data from the latest 2016 Brazilian national league (Brasileirão) and I compared the values.
 
-![](<images/graph-300x154.png>)
+![](<images/graph.png>)
 
 Através do gráfico, é possível ver que os dados do Brasileirão são bem próximo daqueles calculados por Anderson e Sally. Além disso a figura comprova algo bem intuitivo: fazer mais gols gera mais pontos na média. Usarei os dados do livro para as análises, uma vez que os valores foram calculados utilizando um número maior de jogos. O próximo passo é entender os **pontos marginais de cada gol**, isto é, o quantos pontos o gol X adiciona em relação ao gol X-1. A tabela abaixo resume estes valores e será usada como referência:
 
 Using the graph, it is possible to see that the values obtained with the Brasileirão data are very close to those calculated by Anderson and Sally. Moreover, the figure proves something very intuitive: scoring more goals ensures more points on average. Since the values presented in “The Numbers Game” were calculated with a greater amount of data, I will those numbers for further analysis. The next step is to understand the **marginal points produced by each goal**, this is, how many points goal X adds compared to goal X-1. The table below summarizes those values and will be used as reference:
 
-![](<images/bookValues-300x96.png>)
+![](<images/bookValues.png>)
 
 With those values, we can now calculate how the marginal points earned by each player per goal during the tournament. For example, if player X scores the first and second goals of his team in a match, his goals are worth 0.85 + 0.99, this is, 1.84 **marginal points.** If another player Y scores the third and fourth in that same match, his goals are worth 0.55 + 0.23, this is, 0.78 **marginal points.** Both players scored 2 goals, however the goals scored by player X ensured more points to the team, therefore are worth more.
 
@@ -38,11 +38,11 @@ To illustrate and make things clearer, imagine an match between ficticious teams
 
 With the metrics described above I produced 2 new player rankings, and compared them to the traditional top scorers list:
 
-![](<images/comparativeImage-300x232.png>)
+![](<images/comparativeImage.png>)
 
 It is possible to see that many names are present in all three lists, but their rankings vary. All of them are interesting and talented players, however it is important to understand some of their differences. A good illustration of those differences is a comparison between Sassá (who plays for Botafogo) and Marinho (who plays for Vitória), both players ended up tied with 12 goals in the conventional top scorers list.
 
-![](<images/marinhoVSsassa-300x238.png>)
+![](<images/marinhoVSsassa.png>)
 
 Sassá scored 7 relevant goals and produced 10.32 marginal points, while Marinho scored 11 relevant goals and produced 9.7 marginal points. It is possible to say that in this tournament Sassá’s goals mostly helped enlarge Botafogo’s wins, since many of his goals changed to score to 2 x 0 or 3 x 0. On the other hand, most of Marinho’s goals changed the perspective of matches for Vitória and were essential in keeping the team in the first division. Therefore, both players had an important role in guaranteeing points for their teams, yet Marinho’s goals happened at tighter moments of the game.
 

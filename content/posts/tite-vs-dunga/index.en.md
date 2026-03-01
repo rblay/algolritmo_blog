@@ -16,25 +16,25 @@ Expected goals is a measurement that has gained a lot of popularity among differ
 
 I watched all the shots attempted by Brazil and its opponents during the World Cup Qualifiers and I used the website [quasegol.com.br](http://quasegol.com.br/) (created by journalist Gustavo Fogaça) to get the xG of each chance. There were 6 games under Dunga (3 home and 3 away) and 6 games in the Tite era (3 home and 3 away). Below you see an example of a shot computed in _Quase Gol_:
 
-![](<images/Screen-Shot-2017-03-17-at-3.04.34-PM-1-300x108.png>)
+![](<images/Screen-Shot-2017-03-17-at-3.04.34-PM-1.png>)
 
 **Results:**
 
 Using this data, I created two charts to compare the performances of Tite and Dunga. In the first it is possible to analyze the number of shots attempted by Brazil and the expected goals for each game of the WC Qualifiers:
 
-![](<images/Screen-Shot-2017-03-17-at-11.05.31-PM-300x252.png>)
+![](<images/Screen-Shot-2017-03-17-at-11.05.31-PM.png>)
 
 There is not a very clear difference between Tite’s and Dunga’s teams in terms of attacking. Overall Tite’s team creates **more chances** and is **expected to score more goals**, but the offensive performance of Dunga’s team is not as inferior to Tite’s as many imagine. It is almost natural that any team with players like Neymar, Philippe Coutinho, Gabriel Jesus, Douglas Costa and Willian will create several good chances throughout any given match.
 
 The second chart shows the chances Brazil’s opponents had and their expected value of goals conceded for each game of the WC Qualifiers, here the differences start to become clearer:
 
-![](<images/Screen-Shot-2017-03-17-at-11.07.42-PM-300x259.png>)
+![](<images/Screen-Shot-2017-03-17-at-11.07.42-PM.png>)
 
 The distribution of the points in this chart is very interesting, we can clearly group the games according to who was the coach at the occasion. Tite’s team tend to not only allow **fewer** **shots** but also **shots with smaller xG** on average. Despite the small number of games played, the improvement in defensive behavior under Tite seems to be very relevant. The new coach consolidated the 4-1-4-1 formation (initially implemented by Dunga) with players like Marcelo, Renato Augusto, Casemiro and Fernandinho (who became a regular starter after the Real Madrid’s midfielder injury).
 
 The following is a summary of the comparison between the managers:
 
-![](<images/Screen-Shot-2017-03-17-at-11.01.12-PM-273x300.png>)
+![](<images/Screen-Shot-2017-03-17-at-11.01.12-PM.png>)
 
 I admit that at first I believed that Tite’s success would be due to a great offensive efficiency, especially with the arrival of Gabriel Jesus and Philippe Coutinho in the starting XI, however the defensive efficiency seems to be the key to Brazil’s recent accomplishments. During the defensive moments of the game, the team narrows the spaces and reduces the options for the opposing team’s attack. The opponent ends up being forced to attempt shots with little probability of scoring.
 

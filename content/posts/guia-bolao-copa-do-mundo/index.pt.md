@@ -8,36 +8,36 @@ Amanhã começa a Copa do Mundo, e a maioria dos torcedores está finalizando se
 
 **Mata-mata mais provável**
 
-![](<images/Screen-Shot-2018-06-13-at-8.54.23-AM-300x158.png>)
+![](<images/Screen-Shot-2018-06-13-at-8.54.23-AM.png>)
 
 **Confrontos do Grupo A**
 
-![](<images/Screen-Shot-2018-06-12-at-11.17.01-PM-300x132.png>)
+![](<images/Screen-Shot-2018-06-12-at-11.17.01-PM.png>)
 
 **Confrontos do Grupo B**
 
-![](<images/Screen-Shot-2018-06-12-at-11.18.38-PM-300x132.png>)
+![](<images/Screen-Shot-2018-06-12-at-11.18.38-PM.png>)
 
 **Confrontos do Grupo C**
 
-![](<images/Screen-Shot-2018-06-12-at-11.20.34-PM-300x132.png>)
+![](<images/Screen-Shot-2018-06-12-at-11.20.34-PM.png>)
 
 **Confrontos do Grupo D**
 
-![](<images/Screen-Shot-2018-06-12-at-11.26.45-PM-300x132.png>)
+![](<images/Screen-Shot-2018-06-12-at-11.26.45-PM.png>)
 
 **Confrontos do Grupo E**
 
-![](<images/Screen-Shot-2018-06-12-at-11.28.25-PM-300x132.png>)
+![](<images/Screen-Shot-2018-06-12-at-11.28.25-PM.png>)
 
 **Confrontos do Grupo F**
 
-![](<images/Screen-Shot-2018-06-12-at-11.30.30-PM-300x132.png>)
+![](<images/Screen-Shot-2018-06-12-at-11.30.30-PM.png>)
 
 **Confrontos do Grupo G**
 
-![](<images/Screen-Shot-2018-06-12-at-11.32.15-PM-300x131.png>)
+![](<images/Screen-Shot-2018-06-12-at-11.32.15-PM.png>)
 
 **Confrontos do Grupo H**
 
-![](<images/Screen-Shot-2018-06-12-at-11.34.21-PM-300x132.png>)
+![](<images/Screen-Shot-2018-06-12-at-11.34.21-PM.png>)

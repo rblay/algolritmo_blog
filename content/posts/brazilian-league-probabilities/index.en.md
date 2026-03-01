@@ -8,11 +8,11 @@ Using the great data from STRATABET that I receive weekly along with some Comput
 
 **Results:**
 
-![](<images/champion-208x300.png>)
+![](<images/champion.png>)
 
-![](<images/libertadores-2-158x300.png>)
+![](<images/libertadores-2.png>)
 
-![](<images/relegation-179x300.png>)
+![](<images/relegation.png>)
 
 In case you want to understand the model, here are the details:
 
@@ -28,13 +28,13 @@ First, we need to look at the die used by an ordinary football team. If teams us
 
 I used information on the Brazilian League and calculated the average number of goals scored by a team during a game: **1.17 goals/match**. Then, I applied the Poisson formula to that value to predict the probability of scoring a specific number of goals throughout the match and compared that with what actually happened in the data:
 
-![](poissonGraph-300x217.png)
+![](poissonGraph.png)
 
 We can see that the Poisson distribution is a good approximation of what actually happens in the data. The next step is to understand the “weight” of the die used by **each team**. For this I used a measure called **expected goals**, which I calculated using the detailed material provided by StrataBet. This is a metric widely used by football analysts and is calculated according by the quality of shots and the chances created by each team (I plan on going into more detail about expected goals in a future text).
 
 In previous posts, we saw that the gross number of goals has some inaccuracies, the number of goals expected is a more accurate measure of the quality of a team. I calculated the **expected goals-for playing home** (xGF home), **expected goals-for playing away** (xGF away), **expected goals-against playing home** (xGA home) and the **expected goals-against playing away** (visiting xGC). The expected goals data for clubs that participate in the Brazilian League are summarized in this table:
 
-![](tableXg-278x300.png)
+![](tableXg.png)
 
 After the 10,000 simulations, the program counted the number of times each team won the simulated Brazilian League, qualified to the Libertadores or was relegated, those values are presented in the chart at the beginning of the text
 

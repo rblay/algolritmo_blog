@@ -14,11 +14,11 @@ Costlier squads have better players, which implies on having a better chance of
 
 First, I used transfermarkt.com to collect data regarding the market value for each team. Most values were from May 2016 (when the Brasileirão was just starting), this means that player performances during the tournament still had not influenced the values. Then, I calculated the average player market for of each team and ordered them accordingly, here is a table with this calculated squad quality ranking:
 
-![](<images/Screen-Shot-2017-01-09-at-8.06.42-PM-300x287.png>)
+![](<images/Screen-Shot-2017-01-09-at-8.06.42-PM.png>)
 
 Last, I compared the squad quality ranking with the team’s final standings by calculating the difference. A negative difference means the team underachieved while a positive one means it overachieved.
 
-![](<images/Screen-Shot-2017-01-09-at-8.07.01-PM-300x274.png>)
+![](<images/Screen-Shot-2017-01-09-at-8.07.01-PM.png>)
 
 **Results:**
 
@@ -28,7 +28,7 @@ At first we can see that there is a moderate correlation between the final leagu
 
 With this initial analysis done, I separated the 4 teams with the greatest positive differences (Botafogo, Santos, Atlético-PR and Ponte Preta) and the 4 teams with the greatest negative differences (Internacional, Cruzeiro, São Paulo and Fluminense). Those were the clubs which the model was the most unsuccessful at predicting performance, we can say they are the season’s biggest over and under achievers.
 
-![](<images/surpresasDecepcoesENmenor-300x300.png>)
+![](<images/surpresasDecepcoesENmenor.png>)
 
 Now that a quantitative analysis made it clear who were the big surprises and disappointments of the tournament we can look qualitatively at the reasons behind those performances. By analyzing the team’s decisions during 2016 it is clear that **knowledge about the players** **in the club’s squad** is essential in order to perform well.
 
