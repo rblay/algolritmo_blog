@@ -3,6 +3,7 @@ title: "About Algolritmo"
 description: "Learn about Algolritmo's mission and team"
 translationKey: "about"
 layout: "single"
+date: 2017-01-01
 ---
 
 Algolritmo's mission is to bring a mathematical and statistical perspective to soccer analysis, with a focus on the Brazilian tournaments and the main European Leagues. Several publications such as "Soccernomics", "The Numbers Game", "Mathletics" and "Soccermatics" have demonstrated how data analysis is a great complement to soccer's magic, human and imponderable side. With this mentality, we seek to bring a new perspective to the beautiful game.
