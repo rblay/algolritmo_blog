@@ -2,6 +2,7 @@
 title: "Does your club have a young squad? Roster management in the 2019 Brazilian league"
 date: 2019-12-01
 draft: false
+image: images/idadeUtilizacao-1-scaled.png
 ---
 
 **\[English translations will be provided in the near future\]**

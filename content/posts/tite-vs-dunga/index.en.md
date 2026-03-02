@@ -2,6 +2,7 @@
 title: "Tite vs Dunga"
 date: 2017-03-18
 draft: false
+image: images/Screen-Shot-2017-03-17-at-3.04.34-PM.png
 ---
 
 This upcoming week the South America World Cup Qualifiers returns with a big match between Brazil and Uruguay. The Brazilian team comes motivated by 6-game winning streak in the competition, and most of the team’s recent success is credited to its new coach, Tite. Almost every media outlet claims that, under the new management, the team has become more confident and cheerful, especially when compared to the games in which Dunga was the head coach. I agree largely to this subjective analysis, but I believe that with some data it is possible to better understand Brazil’s performance with Tite.

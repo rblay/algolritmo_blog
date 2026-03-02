@@ -2,6 +2,7 @@
 title: "Predicting the Champions League"
 date: 2017-02-14
 draft: false
+image: images/confrontos.jpg
 ---
 
 Last week, I received the great news that I was selected by StrataBet (a sports betting website) to receive extremely detailed material on European soccer leagues. Using this data along with some Computer Science knowledge I prepared a simulation of the UEFA Champions League, which begins its knockout phase today.

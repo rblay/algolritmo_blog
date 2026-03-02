@@ -2,6 +2,7 @@
 title: "Surpresas e Decepções do Brasileirão"
 date: 2017-01-07
 draft: false
+image: images/Screen-Shot-2017-01-05-at-12.57.07-PM.png
 ---
 
 Aproveitando o período de férias do futebol brasileiro, trago para você uma nova forma de se avaliar o desempenho dos times no Brasileirão 2016. A ideia do modelo é poder entender de fato quais os times que produziram além do esperado e quais aqueles que ficaram devendo rendimento. Praticamente todos os especialistas de futebol concordam que é necessário ter um bom grupo de jogadores para se disputar o título brasileiro, por conta disso vamos comparar a qualidade dos elencos com seu desempenho no campeonato.

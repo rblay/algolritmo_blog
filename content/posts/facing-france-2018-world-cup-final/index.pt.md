@@ -2,6 +2,7 @@
 title: "Enfrentando a França na Final da Copa 2018"
 date: 2020-05-23
 draft: false
+image: images/Slide1.jpeg
 ---
 
 Em maio desse ano, me inscrevi na competição de análise de dados da [Conferência de Analytics do Seattle Sounders](https://www.soundersfc.com/socceranalytics) (time de futebol dos Estados Unidos). A ideia era criar diferentes gráficos com o intuito de ajudar um time a se preparar para um jogo ou a contratar jogadores.

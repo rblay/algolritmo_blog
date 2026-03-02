@@ -2,6 +2,7 @@
 title: "Where Brazilian Teams Have the Ball"
 date: 2019-10-29
 draft: false
+image: images/heatmap.png
 ---
 
 Ball possession is one of the most commonly used statistics to analyse a football match. Often, during half-time or while a player receives medical attention, the commentator will share this number with supporters: "Team X has 68% ball possession in this game!" It is interesting to know who dominates the ball throughout a match, however this data is usually too shallow on its own.

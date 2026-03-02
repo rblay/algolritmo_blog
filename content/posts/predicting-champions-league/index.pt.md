@@ -2,6 +2,7 @@
 title: "Prevendo a Champions League"
 date: 2017-02-14
 draft: false
+image: images/confrontos.jpg
 ---
 
 No começo da semana passada, recebi a grata notícia de que fui selecionado pela StrataBet (um site de apostas de esporte) para receber um material extremamente detalhado sobre ligas europeias de futebol. Utilizando esses dados juntamente com alguns conhecimentos de computação preparei uma simulação da UEFA Champions League, que começa sua fase mata-mata hoje.

@@ -2,6 +2,7 @@
 title: "Tite vs Dunga"
 date: 2017-03-18
 draft: false
+image: images/Screen-Shot-2017-03-17-at-3.04.34-PM.png
 ---
 
 Nessa semana temos a volta das eliminatórias para a Copa do Mundo com o clássico internacional Brasil x Uruguai. A seleção brasileira vem embalada por uma sequência de 6 vitórias consecutivas na competição e é praticamente uma unanimidade que muito do recente sucesso se deve ao novo treinador, Tite. De uma forma geral, a mídia afirma que a seleção do novo treinador é mais confiante, alegre e leve se comparada com a de Dunga. Assim como muitos torcedores concordo em grande parte com essa análise subjetiva, mas acredito que com alguns dados é possível entender melhor o desempenho da seleção comandada por Tite.

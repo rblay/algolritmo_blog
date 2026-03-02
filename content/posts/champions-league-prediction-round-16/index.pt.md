@@ -2,6 +2,7 @@
 title: "Previsões Champions League 17-18 Oitavas (Ida)"
 date: 2018-02-12
 draft: false
+image: images/campeoes.png
 ---
 
 O Algolritmo está de volta com previsões sobre a UEFA Champions League, que inicia sua fase mata-mata amanhã. Utilizando os excelentes dados providenciados pela Stratabet, calculei as probabilidades de cada time ser campeão do torneio mais disputado da Europa, assim como as probabilidades de vitória, empate ou derrota dos confrontos de ida das oitavas de final. Pretendo ao longo das próximas fases do campeonato publicar mais textos com novas previsões. Primeiro apresento duas imagens e uma análise que resumem os resultados da simulação. Após isso detalho o método utilizado para os leitores que tem interesse em estatística, matemática e computação (além de futebol, é claro).

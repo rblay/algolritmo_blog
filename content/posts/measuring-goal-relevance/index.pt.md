@@ -2,6 +2,7 @@
 title: "Medindo a Relevância de Gols"
 date: 2017-01-31
 draft: false
+image: images/grafico1.png
 ---
 
 Os meses de dezembro e janeiro são marcados por muitas especulações no mundo do futebol, especialmente no Brasil onde os times estão contratando jogadores para a temporada que está por vir. Nessa época do ano é muito comum ver em jornais comparativos entre jogadores sondados por clubes e disponíveis no mercado. Naturalmente o principal dado utilizado nessas comparações, principalmente quando se coloca lado a lado jogadores de ataque, é a quantidade de gols. O número bruto de gols é um dado interessante, mas aliado a um pouco mais de informação é possível extrair comparativos mais relevantes. Abaixo apresento 2 modelos que utilizam dados de gols um pouco mais a fundo.

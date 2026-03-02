@@ -2,6 +2,7 @@
 title: "O seu time é jovem? Gestão de Elenco no Brasileirão 2019"
 date: 2019-12-01
 draft: false
+image: images/idadeUtilizacao-1-scaled.png
 ---
 
 Seu time escala os jovens? Ou ele usa mais os “experientes”? O Gráfico de idade e utilização do Brasileirão nos ajuda a responder essas perguntas!

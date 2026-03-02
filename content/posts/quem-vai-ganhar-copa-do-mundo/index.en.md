@@ -2,6 +2,7 @@
 title: "Who Will Win the World Cup"
 date: 2018-06-11
 draft: false
+image: images/Screen-Shot-2018-06-11-at-8.32.53-AM.png
 ---
 
 The World Cup: a sporting, cultural, social, political, economic, and above all passionate event. The World Cup is the football world's greatest focus right now, and of course Algolritmo couldn't miss the chance to bring a statistical and mathematical perspective on this incredible tournament that takes over the news, our conversations, and our daily routines every four years. Today we present the probability of each national team becoming champion — results first, followed by a more detailed explanation of the model for those who want to dig deeper. In upcoming posts we'll bring more content, such as a betting pool guide and the most likely knockout-stage matchups, so stay tuned to the blog and remember to follow our [Facebook page](https://www.facebook.com/algolritmo/)!

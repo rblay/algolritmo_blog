@@ -6,10 +6,13 @@
     {{ range .Pages }}
     <article class="post-card">
       <a href="{{ .RelPermalink }}" class="post-card-link">
+        {{ $page := . }}
         {{ with .Params.image }}
-        <div class="post-card-image">
-          <img src="{{ . | absURL }}" alt="{{ $.Title }}" loading="lazy">
-        </div>
+          {{ with $page.Resources.GetMatch . }}
+          <div class="post-card-image">
+            <img src="{{ .RelPermalink }}" alt="{{ $page.Title }}" loading="lazy">
+          </div>
+          {{ end }}
         {{ end }}
         <div class="post-card-body">
           <h2 class="post-card-title">{{ .Title }}</h2>

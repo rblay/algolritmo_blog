@@ -2,6 +2,7 @@
 title: "Measuring Goal Relevance"
 date: 2017-01-31
 draft: false
+image: images/grafico1.png
 ---
 
 December and January are characterized by several transfer rumors in the soccer world, notably in Brazil, where teams are currently looking to sign new players for the upcoming season. In this time of the year it is very common to see in newspapers comparative charts regarding potential signings and players available at the market. Usually, the main data analyzed in those comparisons are the number of goals, especially when the comparison involves attacking players. The raw number of goals is an interesting measure, but with some extra information it is possible to draw more relevant comparisons. Below I present 2 models which use data regarding goals scored more deeply.

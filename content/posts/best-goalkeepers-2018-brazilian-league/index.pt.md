@@ -2,6 +2,7 @@
 title: "Os Melhores Goleiros do Brasileirão 2018"
 date: 2018-12-21
 draft: false
+image: images/imagemGoleiros.png
 ---
 
 Durante a pausa do futebol brasileiro, o Algolritmo trará textos sobre a Série A e Série B do brasileirão 2018. Nesse primeiro texto trazemos uma análise estatística sobre os goleiros da Série A. A maioria dos torcedores e comentaristas tende a avaliar o desempenho de goleiros com alguns números simples, entre eles: gols sofridos, jogos sem levar gol ou defesas difíceis (que possui um certo grau de subjetividade). Hoje o Algolritmo mostrará uma outra forma de entender a efetividade dos goleiros, combinando as defesas feitas com a qualidade das finalizações sofridas. Esse texto é inspirado em análises sobre goleiros da Europa feitas pelo site Statsbomb.

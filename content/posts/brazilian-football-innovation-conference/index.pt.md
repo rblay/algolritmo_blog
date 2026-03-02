@@ -2,6 +2,7 @@
 title: "Um brasileiro na conferência de inovação no futebol"
 date: 2019-10-17
 draft: false
+image: images/IMG_5403.jpeg
 ---
 
 Nesse último final de semana viajei até Londres para participar da primeira StatsBomb Innovation in Football Conference, realizada no Stamford Bridge, estádio do Chelsea. Caso você não conheça, a StatsBomb é uma das principais empresas de análise de dados de futebol, além de oferecerem consultoria para clubes eles também coletam dados de 40 ligas ao redor do mundo. Essa conferência reuniu diversos pesquisadores, analistas de clubes, empresas e fãs de futebol que se interessam por uma visão mais analítica e tecnológica do jogo.

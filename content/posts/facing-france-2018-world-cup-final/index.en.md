@@ -2,6 +2,7 @@
 title: "Facing France in the 2018 World Cup Final"
 date: 2020-05-23
 draft: false
+image: images/Slide1.jpeg
 ---
 
 This May, I submitted an [entry for the data analysis competition at the 2020 Sounders FC Soccer Analytics Conference](https://www.soundersfc.com/socceranalytics). The challenge was to create data visualizations to help teams prepare for matches or sign new players.

@@ -2,6 +2,7 @@
 title: "Brazilian League’s Over and Under Achievers"
 date: 2017-01-07
 draft: false
+image: images/Screen-Shot-2017-01-05-at-12.57.07-PM.png
 ---
 
 As the Brazilian National League off-season period is currently underway, I bring you a new method to analyze each club’s performances in last year’s tournament (Brasileirão 2016). The goal of the model is to understand which teams performed better than anticipated and which teams failed to meet expectations. Virtually all soccer specialists agree that to win the Brasileirão (or any national league as a matter of fact) it is necessary to have a talented group of players, hence we will compare the quality of rosters with their achievements in the tournament.

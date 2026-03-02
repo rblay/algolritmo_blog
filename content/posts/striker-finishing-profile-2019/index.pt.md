@@ -2,6 +2,7 @@
 title: "Perfil de finalização dos atacantes – Brasileirão 2019"
 date: 2019-11-28
 draft: false
+image: images/atacantes-1-scaled.png
 ---
 
 **\[English translations will be provided in the near future\]**

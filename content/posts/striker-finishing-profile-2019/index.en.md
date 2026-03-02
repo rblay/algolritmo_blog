@@ -2,6 +2,7 @@
 title: "Striker Finishing Profiles – 2019 Brasileirão"
 date: 2019-11-28
 draft: false
+image: images/atacantes-1-scaled.png
 ---
 
 The original Twitter thread can be found [here](https://twitter.com/algolritmo/status/1199486760293502976).

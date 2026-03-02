@@ -2,6 +2,7 @@
 title: "World Cup Betting Pool Guide and Most Likely Knockout Stage"
 date: 2018-06-13
 draft: false
+image: images/Screen-Shot-2018-06-13-at-8.54.23-AM.png
 ---
 
 The World Cup starts tomorrow, and most fans are finalising their predictions in various betting pools. If you still have some doubts, or feel you don't have enough information to predict games like Panama vs Tunisia, Peru vs Australia, and Senegal vs Japan — don't worry! Algolritmo has put together a "guide" to help those who like to rely on data. We calculated the probabilities of a draw or a win for each team in every group-stage matchup, and we also extracted the most likely knockout-stage bracket! If you want to better understand the calculations, [read this post](https://algolritmo.com/index.php/2018/06/11/quem-vai-ganhar-a-copa-do-mundo-segundo-as-estatisticas/), where we present the model used. I hope the guide can help the more statistically-minded or undecided bettors!

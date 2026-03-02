@@ -2,6 +2,7 @@
 title: "Artilharia BR17 Sorte, Azar e Competência"
 date: 2017-07-22
 draft: false
+image: images/artilhariaXG_tabela_pt.png
 ---
 
 Recentemente, recebi acesso a dados detalhados da Stratabet sobre o Campeonato Brasileiro de 2017. Com isso, a tendência é que no futuro próximo o blog seja mais dedicado ao Brasileirão, vale lembrar que estou sempre aceitando sugestões e ideias para futuros estudos! Hoje falarei um pouco sobre os artilheiros utilizando algumas métricas e conceitos presentes em textos passados.

@@ -2,6 +2,7 @@
 title: "Champions League 17-18 Predictions Round of 16"
 date: 2018-02-12
 draft: false
+image: images/campeoes.png
 ---
 
 Algolritmo is back with predictions about the UEFA Champions League, which begins its knockout phase tomorrow. Using the excellent datasets provided by Stratabet, I calculated the odds of each team being champion of the most important tournament in Europe, as well as the odds of a win, draw or defeat in the first leg of the round of 16. I intend to publish more texts with new forecasts throughout the next phases of the championship. First, I present two images and an analysis that summarize the results of the simulation. After this I detail the method used for readers who have an interest in statistics, mathematics and computing (in addition to soccer, of course).

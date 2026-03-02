@@ -2,6 +2,7 @@
 title: "Onde os times brasileiros têm a bola"
 date: 2019-10-29
 draft: false
+image: images/heatmap.png
 ---
 
 A posse de bola é uma das estatísticas mais utilizadas para analisar uma partida de futebol. Muitas vezes, durante o intervalo da partida ou enquanto um jogador recebe atendimento médico, o narrador apresentará esse número ao torcedor: “time X está com 68 % da posse de bola nesse jogo!”. É interessante saber quem domina a bola ao longo de uma partida, no entanto esse dado geralmente é razo demais.

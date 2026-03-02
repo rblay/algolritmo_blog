@@ -2,6 +2,7 @@
 title: "The Best Goalkeepers in the 2018 Brazilian League"
 date: 2018-12-21
 draft: false
+image: images/imagemGoleiros.png
 ---
 
 Amid the break on the Brazilian soccer calendar, Algolritmo will provide you texts about the Brazil’s top leagues, the Série A and the Série B. In this first text, we bring a statistical analysis on the goalkeepers of the Brazil’s Série A. Usually, fans and pundits tend to evaluate goalkeepers with simple numbers, such as: goals conceded, clean sheets or difficult saves (which has an inherent degree of subjectivity). Today, Algolritmo will show another way to understand the effectiveness of goalkeepers, combining the saves made with the quality of shots faced. This text is inspired in European goalkeeper analyzes made by the company Statsbomb.

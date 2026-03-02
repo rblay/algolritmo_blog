@@ -2,6 +2,7 @@
 title: "Probabilidades no Brasileirão"
 date: 2017-10-21
 draft: false
+image: images/campeoes.png
 ---
 
 Utilizando os ótimos dados que recebo semanalmente STRATABET juntamente com alguns conhecimentos de computação preparei uma simulação da Brasileirão 2017, que está em sua reta final. Abaixo estão as probabilidades de ganhar o campeonato, se classificar para a libertadores e ser rebaixado. Se você tem curiosidade de saber como matemáticos e estatísticos calculam esses valores recomendo ler o texto inteiro.

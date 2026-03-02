@@ -2,6 +2,7 @@
 title: "Brazilian League Probabilities"
 date: 2017-10-21
 draft: false
+image: images/campeoes.png
 ---
 
 Using the great data from STRATABET that I receive weekly along with some Computer Science knowledge I prepared a simulation of the Brazilian League (also known as the Brasileirão), which is already 29 weeks in. Below are the probabilities of winning the championship, qualifying to the Copa Liber adores and being relegated. If you are curious to know how mathematicians and statisticians calculate those odd, I suggest you read the whole text.

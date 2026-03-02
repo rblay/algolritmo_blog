@@ -2,6 +2,7 @@
 title: "A Brazilian at the Football Innovation Conference"
 date: 2019-10-17
 draft: false
+image: images/IMG_5403.jpeg
 ---
 
 This past weekend, I traveled to London to attend the first StatsBomb Innovation in Football Conference, held at Chelsea’s Stamford Bridge. In case you are not aware, StatsBomb is one of the leading football data analysis companies, they provide consulting for clubs and act a a data provider, collecting data from 40 leagues around the world. This conference brought together several researchers, club analysts, companies and football fans who are interested in a more analytical and technological perspective of the game.

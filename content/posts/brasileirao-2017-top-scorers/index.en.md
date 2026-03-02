@@ -2,6 +2,7 @@
 title: "Brasileirão 2017 Top Scorers Luck and Merit"
 date: 2017-07-22
 draft: false
+image: images/artilhariaXG_tabela_pt.png
 ---
 
 Recently, I received access to detailed data about the 2017 Brazilian soccer League (also known as Brasileirão). Therefore, the next few posts will most likely be more dedicated to the Brasileirão, it is important to say that I accept suggestions and ideas for future studies! Today I will talk a little about the tournament’s top scorers using some metrics and concepts present in previous texts.

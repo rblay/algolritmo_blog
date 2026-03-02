@@ -2,6 +2,7 @@
 title: "Guia para Bolão e Mata-Mata mais Provável da Copa do Mundo"
 date: 2018-06-13
 draft: false
+image: images/Screen-Shot-2018-06-13-at-8.54.23-AM.png
 ---
 
 Amanhã começa a Copa do Mundo, e a maioria dos torcedores está finalizando seus palpites em diferentes bolões. Se você ainda tem algumas dúvidas, ou acha que não tem informação suficiente para palpitar em jogos como Panamá contra Tunísia, Perú contra Austrália e Senegal contra Japão, não se preocupe! O Algolritmo preparou um “guia” para ajudar aqueles que gostam de se basear em dados.  Calculamos as probabilidades de empate ou vitória de cada um dos times e todos os confrontos da fase de grupos, e além disso também extraímos os confrontos de mata-mata mais prováveis! Caso você queira entender melhor os cálculos, [leia esse texto](https://algolritmo.com/index.php/2018/06/11/quem-vai-ganhar-a-copa-do-mundo-segundo-as-estatisticas/), onde apresentamos o modelo utilizado. Espero que o guia possa ajudar os apostadores mais estatístico ou indecisos!

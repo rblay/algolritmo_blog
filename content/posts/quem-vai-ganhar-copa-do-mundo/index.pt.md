@@ -2,6 +2,7 @@
 title: "Quem vai ganhar a Copa do Mundo"
 date: 2018-06-11
 draft: false
+image: images/Screen-Shot-2018-06-11-at-8.32.53-AM.png
 ---
 
 Copa do Mundo: Um evento esportivo, cultural, social, político, econômico e acima de tudo apaixonante. A Copa do Mundo é o grande foco do mundo do futebol no momento e é claro que o Algolritmo não poderia deixar de trazer uma perspectiva estatística e matemática desse incrível torneio que toma conta dos noticiários, nossas conversas e nossa rotina a cada 4 anos. Hoje trazemos as probabilidades de cada seleção ser campeã, apresentamos os resultados no início do post e logo em seguida uma explicação mais detalhada do modelo para aqueles que desejam se aprofundar. Em próximos posts traremos mais conteúdo, como um guia para bolão e os confrontos de mata-mata mais provável de acontecer, por isso fique ligado no blog e lembre-se de curtir nossa [página no Facebook](https://www.facebook.com/algolritmo/)!
