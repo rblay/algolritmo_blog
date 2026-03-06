@@ -4,7 +4,7 @@ Football/soccer analytics blog at algolritmo.com. Bilingual (PT-BR default + EN)
 
 ## Repo
 `https://github.com/rblay/algolritmo_blog`
-Live at: `https://rblay.github.io/algolritmo_blog/` (temporary until domain transfer)
+Live at: `https://algolritmo.com/`
 
 ---
 
@@ -13,35 +13,19 @@ Live at: `https://rblay.github.io/algolritmo_blog/` (temporary until domain tran
 ### ~~1. Download post images~~ — DONE ✓
 All 176 images downloaded from WordPress CDN (`i0`/`i1`/`i2.wp.com`) and placed in each post's `images/` subfolder. All markdown references updated to local paths. Committed and deployed (commit `be89b71`).
 
-### 2. Translate PT-only posts
-These posts exist only in Portuguese and need English versions (`index.en.md`):
-- `quem-vai-ganhar-copa-do-mundo`
-- `guia-bolao-copa-do-mundo`
-- `where-brazilian-teams-have-ball`
-- `striker-finishing-profile-2019`
-- `best-goalkeepers-2018-brazilian-league`
+### ~~2. Translate PT-only posts~~ — DONE ✓
+### ~~3. Featured images on homepage cards~~ — DONE ✓
+### ~~4. Transfer domain algolritmo.com~~ — DONE ✓ (algolritmo.com registrar transfer to Cloudflare pending completion)
+### ~~5. Archive WordPress + cancel hosting~~ — DONE ✓
+### ~~6. Open Graph tags~~ — DONE ✓ (tags in `baseof.html`; og:image uses `.Resources.GetMatch` for correct page bundle URL)
+### ~~7. Custom 404 page~~ — DONE ✓ (`layouts/404.html`; workflow copies `public/pt/404.html` to `public/404.html` for GitHub Pages)
+### ~~8. Favicon~~ — DONE ✓
 
-### 3. Featured images on homepage cards
-Cards on the homepage currently show no image. To add them:
-- Add `featured_image: image.png` to post frontmatter
-- Update `layouts/index.html` and `layouts/_default/list.html` to render it
+### 9. algolritmo.com.br → algolritmo.com redirect — DONE ✓
+Expression-based Cloudflare redirect rule: `http.host eq "algolritmo.com.br"` → `concat("https://algolritmo.com", http.request.uri.path)`
 
-### 4. Transfer domain algolritmo.com
-- Add CNAME record pointing to `rblay.github.io`
-- Set custom domain in GitHub: Settings → Pages → Custom domain
-- Update `baseURL` in `hugo.toml` to `https://algolritmo.com/`
-
-### 5. Archive WordPress + cancel hosting
-Step 1 is done — safe to proceed.
-
-### 6. Open Graph tags (nice-to-have)
-Add `og:title`, `og:description`, `og:image` to `layouts/partials/header.html` for proper link previews when sharing posts on social media.
-
-### 7. Custom 404 page (nice-to-have)
-Create `layouts/404.html`.
-
-### 8. Favicon (nice-to-have)
-Replace the placeholder `static/images/favicon.png` with one derived from the logo.
+### 10. Remove algolritmo.com from Hostgator — pending
+Once Cloudflare registrar transfer completes (initiated 2026-03-04). Verify via `whois algolritmo.com | grep -i registrar`.
 
 ---
 
