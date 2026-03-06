@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>404 | {{ .Site.Title }}</title>
+  <link rel="icon" href="{{ "images/favicon.png" | absURL }}" type="image/png">
+  {{ $css := resources.Get "css/main.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+</head>
+<body>
+  {{ partial "header.html" . }}
+  <main>
+    <div class="not-found">
+      <h1>404</h1>
+      <p>{{ if eq .Lang "pt" }}Esta página saiu pela linha de fundo.{{ else }}This page went out of bounds.{{ end }}</p>
+      <a href="{{ "/" | relLangURL }}">{{ if eq .Lang "pt" }}Voltar ao início{{ else }}Back to home{{ end }}</a>
+    </div>
+  </main>
+  {{ partial "footer.html" . }}
+  <script src="{{ "js/main.js" | absURL }}"></script>
+</body>
+</html>
