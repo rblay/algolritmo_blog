@@ -11,7 +11,7 @@
   <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
-  {{ with .Params.image }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
+  {{ $page := . }}{{ with .Params.image }}{{ with $page.Resources.GetMatch . }}<meta property="og:image" content="{{ .Permalink }}">{{ end }}{{ end }}
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
